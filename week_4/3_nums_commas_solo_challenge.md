@@ -9,9 +9,18 @@
 - Use strings, integers, arrays, and/or hashes
 
 ## Background
+Write a method `separate_comma` which takes an integer as its input and returns a comma-separated integer as a string.  Like this:
 
+```ruby
+separate_comma(1000)    # => "1,000"
+separate_comma(1000000) # => "1,000,000"
+separate_comma(0)       # => "0"
+separate_comma(100)     # => "100"
+```
 
 *NOTE: Even if you are comfortable with regular expressions, do not use them in this challenge, it's all about the logic!*
+
+You have some rspec for this. It's saved in your `my_solutions` directory. If you can think of any cases the RSpec doesn't cover, see if you can write tests using Driver Test Code that test the missing case.
 
 ## Directions
  
