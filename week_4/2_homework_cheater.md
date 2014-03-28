@@ -10,9 +10,11 @@
 
 
 ## Background
-I'm sure you had times in school where you forgot you had a response assignment due and you didn't start it yet. Did you quickly throw something together? 
+I'm sure you had times in school where you forgot you had a response assignment due and you didn't start it yet. Did you quickly throw something together during lunch? (I sure did.) 
 
-In this challenge, you will create a program that will quickly output something to "turn in" to your teacher based on the subject and user stories. Think of this as academic mad lib. It doesn't have to be good (as evidenced by the example below), and it can be as easy or challenging as you design it to be. Have fun and challenge yourself!
+In this challenge, you will create a program that will output something to "turn in" to your teacher. Think of this as academic mad lib. It doesn't have to be good (as evidenced by the example below), and it can be as easy or challenging as you design it to be. Have fun and challenge yourself!
+
+You will have to create your own tests for this challenge as well. 
 
 
 ## Directions
