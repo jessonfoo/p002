@@ -1,4 +1,4 @@
-## Initial Solution
+### Initial Solution
 
 Translate your pseudocode into code. If your pseudocode 
 is not easy to implement, modify it, and re-attempt to code it. 
