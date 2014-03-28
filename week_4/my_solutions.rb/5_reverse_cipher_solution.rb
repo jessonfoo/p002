@@ -37,6 +37,8 @@ end
 # 3. What is `each_char` doing?
 # 4. What does `sample` do?
 # 5. Are there any other methods you want to understand better?
+# 6. Does this code look better or worse than your refactored solution
+#    of the original cipher code? What's better? What's worse?
 
 
 
