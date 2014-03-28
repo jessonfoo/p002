@@ -1,3 +1,5 @@
+### Pseudocode
+
 Based on the tests, you should have an idea of what your method(s) need(s) to accomplish.
 In the pseudocode section of your `my_solution.rb` file, identify the input and output. 
 Then write specific step-by-step ideas in code-like English to pass each test. 

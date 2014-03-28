@@ -1,4 +1,4 @@
-###Reflection Guidelines
+### Reflection Guidelines
 
 When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
 
