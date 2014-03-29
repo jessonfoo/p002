@@ -1,4 +1,4 @@
-# U2.W4: Reverse Cipher Solution
+# U2.W4: Refactor Cipher Solution
 
 
 # I worked on this challenge [by myself, with: ].
@@ -39,7 +39,7 @@ end
 # 5. Are there any other methods you want to understand better?
 # 6. Does this code look better or worse than your refactored solution
 #    of the original cipher code? What's better? What's worse?
-
+# 7. Is this good code? What makes it good? What makes it bad?
 
 
 # 1. DRIVER TESTS GO BELOW THIS LINE
