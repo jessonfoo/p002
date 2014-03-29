@@ -3,8 +3,8 @@
 # U1.W4: Dealing with Conflict
 
 ## Learning Objectives
--
--
+- Describe how you delt with conflict
+- Evaluate whether your actions produced positive or negative reactions
 
 ## Directions
 
@@ -22,4 +22,4 @@ Once you've opened your file, write a response to each exercise using the HTML y
 ## Submission
 Link to your blog on the index of your site and sync your changes. 
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? Comment on their post!
