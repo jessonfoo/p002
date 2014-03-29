@@ -1,3 +1,16 @@
+# U2.W4: Cipher Challenge
+
+
+# I worked on this challenge [by myself, with: ].
+
+
+
+# 1. Solution
+# Write your comments on what each thing is doing. 
+# If you have difficulty, go into IRB and play with the methods.
+
+
+
 def north_korean_cipher(coded_message)
   input = coded_message.downcase.split("") # Check out this method in IRB to see how it works! Also refer to the ruby docs.
   decoded_sentence = []
@@ -57,4 +70,12 @@ def north_korean_cipher(coded_message)
   end  
   return decoded_sentence # What is this returning?        
 end
+
+# Your Refactored Solution
+
+
+
+
+
+# Reflection
  
