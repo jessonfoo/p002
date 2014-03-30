@@ -1,5 +1,4 @@
 #Unit 2: Ruby
-***
 
 In this unit, you will go into more depth into Ruby and really start problem solving. You will have to create your own tests and determine what it means to be successful with a challenge. 
 
