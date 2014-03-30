@@ -16,7 +16,7 @@ This week you will be working on algorithms and basic testing in Ruby. Please ma
 ## Submitting your work
 You should fork the unit 2 repo into your GitHub Account by clicking the "fork" button on the top right of this page. You will be responsible for syncing changes in the unit 2 repo by following the steps [here](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client). Make sure you follow them step by step. 
 
-If you look in the [solutions](../solutions/) folder, you will see we've provided a template for you. You will want to make new files and use this template for submitting any challenge without a pre-existing file. 
+If you look in the [solutions](./my_solutions/) folder, you will see we've provided a template for you. You will want to make new files and use this template for submitting any challenge without a pre-existing file. 
 
 When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
