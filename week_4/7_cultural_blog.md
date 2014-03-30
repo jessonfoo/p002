@@ -10,14 +10,18 @@
 
 First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week4_cultural_blog.html`. Copy the Code from your `blog_template`. 
 
-Conduct some research on strategies for dealing with conflict. You can include some conflict resolution, but also focus on learning how to identify the source of the conflict. 
+Remember the compass of shame? Oftentimes when we have a conflict with someone we use one of our strategies for dealing with shame. 
+
+Conduct some research on strategies for identifying the sources for conflict then discuss a time you had a conflict in your life. Identify the reason you had the conflict and whether your actions made it better or worse. 
 
 Once you've opened your file, write a response to each exercise using the HTML you've learned to set up the file: 
 
 1. Discuss a time you had an emotional conflict with someone. What was it about? What happened? 
-2. How did you handle that conflict? What did you do?
-3. Did your actions make the conflict better or worse?
-4. If you could go back, what would you do differently, if anything?
+2. What was the source of the conflict?
+3. How did you handle that conflict? 
+4. Did your actions make the conflict better or worse?
+5. If you could go back, what would you do differently, if anything?
+6. What did you learn from this experience?
 
 ## Submission
 Link to your blog on the index of your site and sync your changes. 
