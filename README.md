@@ -5,6 +5,10 @@ In this unit, you will go into more depth into Ruby and really start problem sol
 #### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
+###[Week 4](week_4)
+### Week 5 (To be released)
+### Week 6 (To be released)
+
 ## Resources
 + [Writing Driver Test Code](https://gist.github.com/dbc-challenges/5aea3150ddec2aec1007)
 + [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)  
