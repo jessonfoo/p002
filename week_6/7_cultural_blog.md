@@ -1,6 +1,6 @@
 [Week 6 Home](./)
 
-# U2, W6: Stereotype Threat
+# U2.W6: Stereotype Threat
 
 ## Learning Competencies
 - Explain the symptoms and consequences of stereotype threat
