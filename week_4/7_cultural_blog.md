@@ -2,7 +2,7 @@
 
 # U1.W4: Dealing with Conflict
 
-## Learning Objectives
+## Learning Competencies
 - Describe how you delt with conflict
 - Evaluate whether your actions produced positive or negative reactions
 

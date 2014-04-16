@@ -3,11 +3,11 @@
 # U2.W6: Drawer Debugger
 
 
-## Learning Objectives
+## Learning Competencies
 - Use error messages to correct syntax mistakes and/or drive development
 - Define a method's responsiblity
 
-## Background
+## Summary
 
 You will run into numerous error messages as a developer, so it's important to know what they mean and how to read them. The messages provide valuable information on where your program is having problems, but sometimes the messages are misleading, especially if you have little practice interpreting them. In this challenge, you need to work through the error messages until the program runs properly. 
 

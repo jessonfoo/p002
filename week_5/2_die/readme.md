@@ -3,13 +3,13 @@
 # U2.W5: Die Class 2: Arbitrary Symbols
 
 
-## Learning Objectives
+## Learning Competencies
 - Break down problems into implementable pseudocode 
 - Implement a basic Ruby class and identify when to use instance variables
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 - Find and use built-in Ruby methods to solve challenges
 
-## Background
+## Summary
 Working off your previous `Die` class from [Die Class 1](../1_die), implement a new `Die` class which takes an array of strings as its input.  When `Die#roll` is called, it randomly returns one of these strings.  If `Die.new` is passed an empty array, raise an `ArgumentError`.  It should work like this:
 
 ```ruby

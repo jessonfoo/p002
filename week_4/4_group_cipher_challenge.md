@@ -2,13 +2,13 @@
 
 # U2.W4: Group Cipher Challenge
 
-## Learning Objectives
+## Learning Competencies
 - Identify and explain what code is doing
 - Automate repetitive tasks using loops
 - Decompose a problem into smaller, easier to solve components
 - Identify and rewrite repetitive code
 
-## Background
+## Summary
 The N.S.A. just broke Kim Jong Un's cipher that he's been using to give instructions to his military commanders! We wrote the following program to decipher the messages. As the N.S.A.'s best programmer on staff, your job is to refactor the code. 
 
 ## Directions 

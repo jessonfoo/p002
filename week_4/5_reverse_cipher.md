@@ -3,12 +3,12 @@
 # U2.W4: Reverse Cipher Challenge!
 
 
-## Learning Objectives
+## Learning Competencies
 - Identify and explain what code is doing
 - Research and explain how methods work
 - Determine whether code follows good practices
 
-## Background
+## Summary
 So you've already done the cipher challenge and refactored it for clarity. Did you wonder how we came up with that beautiful encription? Well, here's your chance to see the magic, but don't get too excited. You'll need to do some research on some of the methods so you can explain how they work. 
 
 Use IRB to figure out exactly how the various methods work. Try to implement them on your own! 

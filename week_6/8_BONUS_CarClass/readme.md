@@ -2,13 +2,13 @@
 
 # U2.W6: Create A Car Class from User Stories
 
-## Learning Objectives
+## Learning Competencies
 - Identify the attributes and methods of a class based on user stories
 - Translate a user story into driver code and solutions
 - Explain how data structures and classes can model real-world objects
 
 
-## Background
+## Summary
 You've delved into object-oriented programming this week. You've created a class based on pre-defined driver code and user stories. You've converted a functional program into an object-oriented program. You've also created driver code to interact with an existing object's class.
 
 In this challenge, we're going to tackle the trickier task of creating a class with only user stories by taking a real world object and translating it into ruby.

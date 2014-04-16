@@ -3,13 +3,13 @@
 # U2.W5: A Nested Array to Model a Boggle Board
 
 
-## Learning Objectives
+## Learning Competencies
 - Break down problems into implementable pseudocode 
 - Create, access, and traverse nested data structures
 - Explain how data structures and classes can model a real-world object
 - Explain how instance variables and methods represent the characteristics and actions of an object
 
-## Background
+## Summary
 
 We've already worked with hashes and arrays as data structures.  They are handy ways of collecting and organizing data, and ideal for modeling a group of objects.  
 

@@ -2,10 +2,10 @@
 
 # U2.W6: Testing with Assert Statements
 
-## Learning Objectives
+## Learning Competencies
 - Translate driver test code into assert statements
 
-## Background
+## Summary
 
 In earlier challenges, we explored using driver code tests to clearly define the input and output of a method.  The tests were usually of the form:
 

@@ -4,12 +4,12 @@
 **[SOLO CHALLENGE](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md) OPTION 1**
 
 
-## Learning Objectives
+## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
 - Translate a user story into driver code and solutions
 - Translate driver test code into a class structure using object-oriented design
 
-## Background
+## Summary
 In this challenge, you will translate user stories into an Ruby object (using a class). If you aren't sure what a user story is, use the power of google to do some research. Also make sure to practice using your new `assert` knowledge!
 
 ## Directions

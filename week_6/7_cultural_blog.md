@@ -2,7 +2,7 @@
 
 # U2, W6: Stereotype Threat
 
-## Learning Objectives
+## Learning Competencies
 - Explain the symptoms and consequences of stereotype threat
 - Create strategies for combating stereotype threat
 

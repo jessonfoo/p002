@@ -2,14 +2,14 @@
 
 # U2.W4: Homework Cheater!
 
-## Learning Objectives
+## Learning Competencies
 - Translate a user story into driver code and solutions
 - Create methods that take arguments to modify the output
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 - Differentiate between and produce destructive and non-destructive methods
 
 
-## Background
+## Summary
 I'm sure you had times in school where you forgot you had a response assignment due and you didn't start it yet. Did you quickly throw something together during lunch? (I sure did.) 
 
 In this challenge, you will create a program that will output something to "turn in" to your teacher. Think of this as academic mad lib. It doesn't have to be good (as evidenced by the example below), and it can be as easy or challenging as you design it to be. Have fun and challenge yourself!

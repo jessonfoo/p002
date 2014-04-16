@@ -3,11 +3,11 @@
 # U2.W6: Refactoring for Code Readability
 
 
-## Learning Objectives
+## Learning Competencies
 - Explain what code is doing
 - Refactor for clarity and readability
 
-## Background
+## Summary
 Using the goals below, choose a challenge solution from [Class Warfare, Validate a Credit Card Number](../../week_5/6_validate_credit_card). This can be anyone's solution, but if you notice there's a lot of room for improvement with your own code, start with that. Find other's solutions by browsing the branches (just like you would to comment on a random person's solution).
 
 Paste the original unrefactored code in your gist, and as you refactor, make notes of the changes you are making to achieve optimal readability. Include those notes along with the refactored version in your [my_solution.rb](my_solution.rb) file.

@@ -2,7 +2,7 @@
 
 # U1.W5: Technical Blog Entry
 
-## Learning Objectives
+## Learning Competencies
 - Explain when, why, and how to use classes
 - Explain how data structures and classes can model a real-world object
 

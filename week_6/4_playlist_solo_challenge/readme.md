@@ -4,12 +4,12 @@
 **[SOLO CHALLENGE](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md) OPTION 2**
 
 
-## Learning Objectives
+## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
 - Translate a user story into driver code and solutions
 - Translate driver test code into a class structure using object-oriented design
 
-## Background
+## Summary
 Review the Driver Code included in the [solution](my_solution.rb) file and consider the following:
 
 - What are the methods you need?

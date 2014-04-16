@@ -2,13 +2,13 @@
 
 # U2.W4: Separate Numbers with Commas
 
-## Learning Objectives
+## Learning Competencies
 - Break down problems into implementable pseudocode
 - Iterate through data structures and manipulate the content
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 - Use strings, integers, arrays, and/or hashes
 
-## Background
+## Summary
 Write a method `separate_comma` which takes an integer as its input and returns a comma-separated integer as a string.  Like this:
 
 ```ruby

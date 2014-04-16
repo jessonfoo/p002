@@ -2,7 +2,7 @@
 
 # U1.W6: Technical Blog Entry
 
-## Learning Objectives
+## Learning Competencies
 - Compare Functional and Object-Oriented Programming 
 - Explain the differences to an audience
 - Demonstrate the differences using examples

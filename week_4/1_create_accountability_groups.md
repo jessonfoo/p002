@@ -2,13 +2,13 @@
 
 # U2.W4: Accountability Group Creator!
 
-## Learning Objectives
+## Learning Competencies
 - Break down problems into implementable pseudocode 
 - Differentiate between and produce destructive and non-destructive methods
 - Automate repetitive tasks using loops
 - Use strings, integers, arrays, and/or hashes
 
-## Background
+## Summary
 By now you should be feeling comfortable with the procedure we would like you to embrace and follow when working through challenges. You may feel like it's overkill now, but you will greatly appreciate already having set good habits when you arrive at DBC and begin bigger projects!
 
 In this challenge, you are going to make a method that takes an array of names (You'll want to get the list from your Cohort page in Socrates) and outputs a list of accountability groups for three different units. You should try to get everyone into an accountability group of 4, but it's your decision how to deal with cohorts not easily divisible by four. 

@@ -3,11 +3,11 @@
 # U2.W6: Create a BoggleBoard Class
 
 
-## Learning Objectives
+## Learning Competencies
 - Create, access, and traverse nested data structures
 - Implement a basic Ruby class and identify when to use instance variables
 
-## Background
+## Summary
 Create a class `BoggleBoard` that includes the functionality of your methods from the [Boggle Board](../../week_5/4_boggle_board/my_solution.rb) challenge you completed last week. 
 
 To do this, take a look at the methods you've created.  How can they be integrated into your BoggleBoard class?  What needs to change?

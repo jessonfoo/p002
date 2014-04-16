@@ -2,7 +2,7 @@
 
 # U1.W4: Technical Blog Entry
 
-## Learning Objectives
+## Learning Competencies
 - Research a public ruby method and identify a scenario it could be used in
 - Explain how to use an existing ruby method
 
