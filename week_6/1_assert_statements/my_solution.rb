@@ -1,6 +1,5 @@
 # U2.W6: Testing Assert Statements
 
-
 # I worked on this challenge [by myself, with: ].
 
 
@@ -9,7 +8,7 @@
 def assert
   raise "Assertion failed!" unless yield
 end
- 
+
 name = "bettysue"
 assert { name == "bettysue" }
 assert { name == "billybob" }
@@ -29,4 +28,4 @@ assert { name == "billybob" }
 
 
 
-# 5. Reflection 
+# 5. Reflection
