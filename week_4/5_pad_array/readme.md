@@ -1,6 +1,6 @@
-[Week 3 Home](./)
+[Week 4 Home](../)
 
-# U1.W3: Create a Method to Pad an Array
+# U2.W4: Create a Method to Pad an Array
 
 
 ## Learning Objectives
