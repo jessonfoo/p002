@@ -24,10 +24,10 @@ You have some rspec for this. It's saved in your `my_solutions` directory. If yo
 
 ## Directions
  
-1. Write [Driver Test Code](../references/driver_code.md)
-2. [Pseudocode](../references/pseudocode.md)
-3. [Initial Solution](../references/initial_solution.md)
-4. [Refactored Solution](../references/refactoring.md)
-5. [Reflect](../references/reflection_guidelines.md)
+1. Write [Driver Test Code](../../references/driver_code.md)
+2. [Pseudocode](../../references/pseudocode.md)
+3. [Initial Solution](../../references/initial_solution.md)
+4. [Refactored Solution](../../references/refactoring.md)
+5. [Reflect](../../references/reflection_guidelines.md)
 6. Sync your changes (push your solution) to Github
-7. [Review](../references/review.md)
+7. [Review](../../references/review.md)
