@@ -30,4 +30,5 @@ Really focus on breaking each step down. You want to understand every line. **Co
 ## Release 4: [Reflect](../../references/reflection_guidelines.md) **Commit your changes.*
 ## Release 5: Sync your changes 
 (Push your solution) to Github, then email your code to your accountability group.
-## Release 6: [Review](../../references/review.md) the other solutions in your accountability group. Were the solutions different? What did the others do well or better than you? What did you do well? Comment on each solution. Arrange a half hour discussion to discuss your different approaches.  
+## Release 6: [Review](../../references/review.md) 
+Review the other solutions in your accountability group. Were the solutions different? What did the others do well or better than you? What did you do well? Comment on each solution. Arrange a half hour discussion to discuss your different approaches.  
