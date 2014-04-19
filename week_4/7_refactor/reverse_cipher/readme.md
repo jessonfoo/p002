@@ -15,9 +15,9 @@ Use IRB to figure out exactly how the various methods work. Try to implement the
 
 ## Directions
  
-1. Read through the solution in the [solution](/my_solutions/5_reverse_cipher_solution.rb) file. 
+1. Read through the solution in the [my_solution](my_solution.rb) file. 
 2. Comment each line to describe what it's doing
 3. Answer the questions in that respective section
-4. [Reflect](../references/reflection_guidelines.md)
+4. [Reflect](../../../references/reflection_guidelines.md)
 5. Sync your changes (push your solution) to Github
-6. [Review](../references/review.md)
+6. [Review](../../../references/review.md)
