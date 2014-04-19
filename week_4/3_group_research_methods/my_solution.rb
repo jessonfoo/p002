@@ -1,4 +1,4 @@
-# U1.W3: Research Methods
+# U2.W4: Research Methods
 
 i_want_pets = ["I", "want", 3, "pets", "but", "I", "only", "have", 2]
 my_family_pets_ages = {"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, 
