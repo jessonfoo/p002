@@ -30,7 +30,7 @@ This week you will be storing your reflections in the challenge files in this re
   to give you feedback.
 - Open your GitHub desktop app. Find the `phase_0_unit_2` repository and click "clone to computer." 
 
-When you make updates to the files, you should commit your work the same way you did for your github.io and phase_0_unit_1 repo through the app. Include a commit message like "added pseudocode and initial solution for add it up."
+When you make updates to the files on your local repo, you should commit your work the same way you did for your github.io and phase_0_unit_1 repo through the app. Include a commit message like "added pseudocode and initial solution for add it up."
 
 **NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.**
 - If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
