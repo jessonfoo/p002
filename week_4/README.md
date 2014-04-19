@@ -1,22 +1,44 @@
 # Ruby Algorithms
-This week you will be working on algorithms and basic testing in Ruby. Please make sure to follow each step we ask you to do (write driver test code, pseudocode, initial solution, refactoring, reflection, and review). 
 
+So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in unit 1. 
 
+This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write RSpec in Phase 0, just read it. RSpec is designed to be readable. 
+
+Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
+
+**Please make sure to follow each step we ask you (in order): write driver test code, pseudocode, initial solution, refactoring, reflection, and review. 
+
+This week you get a bit more choice on which challenges to do. If you want to go above and beyond, do all of them!
 
 ## Challenges
-1. [Create Accountability Groups](1_create_accountability_groups.md)
-2. [Homework Cheater](2_homework_cheater.md)
-3. [Separate Numbers with Commas SOLO CHALLENGE](3_nums_commas_solo_challenge.md)
-4. [Group Cipher Challenge](4_group_cipher_challenge.md)
-5. [Reverse Cipher Challenge](5_reverse_cipher.md)
-6. [Technical Blog](6_technical_blog.md)
-7. [Cultural Blog](7_cultural_blog.md)
+1. [Mathy Challenges](1_mathy_ruby_intro) **Select 2 to do**
+2. [Homework Cheater](2_creative) **Select 1 to do**
+3. [Group Research Methods](3_group_research_methods)
+4. [Separate Numbers with Commas SOLO CHALLENGE](4_nums_commas_solo_challenge)
+5. [Pad an Array](5_pad_array)
+6. [6_cipher_challenge](6_cipher_challenge)
+7. [Refactor](7_refactor) **Select 1 to do**
+8. [Technical Blog](8_technical_blog.md)
+9. [Cultural Blog](9_cultural_blog.md)
 
 
 ## Submitting your work
-You should fork the unit 2 repo into your GitHub Account by clicking the "fork" button on the top right of this page. You will be responsible for syncing changes in the unit 2 repo by following the steps [here](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client). Make sure you follow them step by step. 
 
-If you look in the [solutions](./my_solutions/) folder, you will see we've provided a template for you. You will want to make new files and use this template for submitting any challenge without a pre-existing file. 
+This week you will be storing your reflections in the challenge files in this repository. 
+- Fork this (phase_0_unit_2) repository by clicking "Fork" at the top right of the page. 
+- Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
+  to give you feedback.
+- Open your GitHub desktop app. Find the `phase_0_unit_2` repository and click "clone to computer." 
+
+When you make updates to the files, you should commit your work the same way you did for your github.io and phase_0_unit_1 repo through the app. Include a commit message like "added pseudocode and initial solution for add it up."
+
+**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.**
+- If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
+)
+directions. 
+- If you are doing it from the command line, follow [these](https://help.github.com/articles/syncing-a-fork) directions.
+
+You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.rb' files or the spec files. 
 
 When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
