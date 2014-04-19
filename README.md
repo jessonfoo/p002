@@ -4,8 +4,8 @@ In this unit, you will go into more depth into Ruby and really start problem sol
 
 
 ###[Week 4](week_4)
-###[Week 5](week_5)
-###[Week 6](week_6)
+### Week 5 *(will be ready on 4/27/14)*
+### Week 6 *(will be ready on 5/4/14)*
 
 ## Unit Goals
 - Peer-Pair program at least 4 times in your accountability group

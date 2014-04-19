@@ -44,6 +44,10 @@ When you make updates to the files (or add a file), you should commit your work 
 
 You need to submit your work through [this google form](https://docs.google.com/forms/d/1Tjg3YO2Nb_JSvauKIdr2vXcRvZ074yrVQhXxjg81sLc/viewform) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
+## Remember your Unit Goals!
+- Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
+- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (4 for peer-pairing, and 1 GPS)
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
 ## Resources
 *These are for reference if you want some additional sources.* 
