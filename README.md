@@ -8,9 +8,10 @@ In this unit, you will go into more depth into Ruby and really start problem sol
 ### Week 6 *(will be ready on 5/4/14)*
 
 ## Unit Goals
-- Peer-Pair program at least 4 times in your accountability group
-- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit 4 for peer sessions and 1 for GPS 2.1)
-- [Rate](https://socrates.devbootcamp.com/feedback) at least 20 pieces of other people's feedback. 
+
+- [Peer-Pair program](https://github.com/Devbootcamp/phase_0_handbook/blob/master/peer-pairing_sessions.md) **at least 4 times** in your accountability group. Read about [pairing](https://github.com/Devbootcamp/phase_0_handbook/blob/master/pairing_in_phase_0.md) before hand. 
+- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit 4 for peer sessions and 1 for [GPS 2.1](https://github.com/Devbootcamp/phase_0_handbook/blob/master/guided_pairing_sessions.md))
+- [Rate Feedback](https://socrates.devbootcamp.com/feedback) at least 20 pieces of other people's feedback. 
 
 #### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
