@@ -34,8 +34,7 @@ sentence_maker(["i", "want", "to", "go", "to", "the", "movies"])
 **Commit your changes after each release (except for Release 0)!**
 
 ## Release 0:. Run the tests
-In your terminal, navigate to the directory that corresponds to this challenge in your forked 
-`p0_unit1_submission` repo. Type `rspec` followed by the spec file name. ex. `rspec array_total_spec.rb`
+In your terminal, make sure you are in the [easy_add_it_up](./) directory. Type `rspec` followed by the spec file name. ex. `rspec array_total_spec.rb`
 Each test should fail. Read the output in your terminal to see what is making the tests fail.
 
 ## Release 1: [Pseudocode](../../../references/pseudocode.md) *commit your changes*
