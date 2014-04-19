@@ -1,5 +1,7 @@
 # Week 5: Ruby Classes
 
+Will be ready on 4/27/14. Please don't work on any of this yet. 
+<!-- 
 This week you will be working on creating ruby classes and translating RSpec into driver code. Please make sure to follow each step we ask you to do (write driver test code, pseudocode, initial solution, refactoring, reflection, and review). This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with. You can always ask people to pair on the community and work with people from other locations! 
 
 
@@ -25,6 +27,10 @@ When you make updates to the files, you should commit your work the same way you
 
 You need to submit your work through [this google form](https://docs.google.com/forms/d/1Y1UajPVN_68qSdQ1jNry6TJU4qaZ_UuhSVfoxuqBBOo/viewform) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
+## Remember your Unit Goals!
+- Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
+- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (4 for peer-pairing, and 1 GPS)
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
 ## Resources
 *These are for reference if you want some additional sources.* 
@@ -35,3 +41,4 @@ You need to submit your work through [this google form](https://docs.google.com/
 - [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
 - [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
 - [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/) - This is a really great Ruby reference. We recommend getting it.  
+ -->

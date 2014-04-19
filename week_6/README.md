@@ -1,5 +1,7 @@
 # Week 6: Object Oriented Design in Ruby
 
+Will be ready on 5/4/14. Please don't work on any of this yet. 
+<!-- 
 Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There is a great resource called [Practical Object-Oriented Design in Ruby (book)](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There isn't a free copy online, so use the mighty power of google (and the free book preview on Amazon) to introduce yourself to the fundamentals of object-oriented design.
 
 Don't forget your Unit Goals (listed below)! 
@@ -46,3 +48,5 @@ You need to submit your work through [this google form](https://docs.google.com/
 - [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
 - [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
 - [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/) - This is a really great Ruby reference. We recommend getting it.  
+ -->
+
