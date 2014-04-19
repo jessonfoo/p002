@@ -26,7 +26,7 @@ You are tasked with creating a `Car` object that is to operate in the context of
 
 What are the characteristics associated with the car?  These are your attributes.  What are the actions associated with your car?  These are your methods. 
 
-## Directions
+## Release 0:
 
 1. Create a simple list of the attributes and methods (don't worry about your class structure yet!)  Try to be explicit and show if your methods are receiving any parameters in your [Pseudocode](../references/pseudocode.md) section. 
 2. Write [Driver Test Code](../references/driver_code.md) based on the directions listed: 

@@ -3,7 +3,7 @@
 # U2.W4: Calculate the Mode
 
 
-## Learning Objectives
+## Learning Competencies
 - Use Tests to guide development
 - Break down problems into implementable pseudocode
 - Iterate through data structures and manipulate the content
@@ -11,7 +11,7 @@
 - Use strings, integers, arrays, and/or hashes
 
 
-## Directions
+## Release 0:
 
 Write a method `mode` which takes an `Array` of numbers or strings as its input and returns an `Array` of the most frequent values.
 

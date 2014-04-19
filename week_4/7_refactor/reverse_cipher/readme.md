@@ -13,7 +13,7 @@ So you've already done the cipher challenge and refactored it for clarity. Did y
 
 Use IRB to figure out exactly how the various methods work. Try to implement them on your own! 
 
-## Directions
+## Release 0:
  
 1. Read through the solution in the [my_solution](my_solution.rb) file. 
 2. Comment each line to describe what it's doing

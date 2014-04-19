@@ -21,7 +21,7 @@ User Error-Driven Development (EDD) to solve the challenge. To do this you will 
 
 After you've fixed each error, you should have fun filling in each of the methods -- but don't forget to go through the normal steps in your coding revelry!
 
-## Directions
+## Release 0:
  
 1. Review the [Driver Test Code](../../references/driver_code.md) Convert as many of the driver code examples into driver test code based on the way you want to implement each method.
 2. [Pseudocode](../../references/pseudocode.md)

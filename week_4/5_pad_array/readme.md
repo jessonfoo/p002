@@ -3,13 +3,13 @@
 # U2.W4: Create a Method to Pad an Array
 
 
-## Learning Objectives
+## Learning Competencies
 - Use tests to guide development
 - Break down problems into implementable pseudocode 
 - Differentiate between and produce destructive and non-destructive methods
 - Find and use built-in Ruby methods to solve challenges
 
-## Directions
+## Release 0:
 
 Implement `Array#pad` and `Array#pad!`.  Each method accepts a minimum size (non-negative integer) and an optional pad value as arguments.
 

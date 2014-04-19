@@ -8,7 +8,7 @@
 - Demonstrate the differences using examples
 
 
-## Directions
+## Release 0:
 Copy your blog tempate into a new HTML file named `week6_technical.html`. 
 
 ## Topic

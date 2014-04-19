@@ -22,7 +22,7 @@ You will want to consider:
 - Should it remember past outputs or not?
 
 
-## Directions
+## Release 0:
  
 1. Write [Driver Test Code](../references/driver_code.md)
 2. [Pseudocode](../references/pseudocode.md)

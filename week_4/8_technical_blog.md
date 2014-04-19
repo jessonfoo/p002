@@ -7,7 +7,7 @@
 - Explain how to use an existing ruby method
 
 
-## Directions
+## Release 0:
 Copy your blog tempate into a new HTML file named `week4_technical.html`. 
 Select one of the ruby methods below, do some research on it, and think of a scenario that could teach how to use this method. Then write a blog that explains how it works (and what it works on) using that scenario. Be sure to include samples of code in your blog! It's good for people to see what you are talking about. 
 

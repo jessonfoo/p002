@@ -21,7 +21,7 @@ Testing in this way is so fundamental to creating stable software, that many tes
 
 In this challenge, we're going to write our own simple `assert` method to get in the spirit of these testing frameworks.  This will take us one step closer to understanding Rspec (the code has been driving the red and greens of your exercises).  We'll also be flexing our muscles with blocks!
 
-## Directions
+## Release 0:
  
 ####1. Translate an assert into Pseudocode 
 Let's take a look at a basic `assert` method to help us test a block of code.  Take the code below and test it out in IRB or the terminal.

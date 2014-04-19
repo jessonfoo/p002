@@ -6,7 +6,7 @@
 - Describe how you delt with conflict
 - Evaluate whether your actions produced positive or negative reactions
 
-## Directions
+## Release 0:
 
 First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week4_cultural_blog.html`. Copy the Code from your `blog_template`. 
 

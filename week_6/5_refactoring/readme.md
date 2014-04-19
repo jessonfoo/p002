@@ -20,7 +20,7 @@ Paste the original unrefactored code in your gist, and as you refactor, make not
 - Minimizes need for comments because the code tells you what it is doing
 - Code is formatted with proper indentation for optimal readability
 
-## Directions
+## Release 0:
  
 1. Write tests using [assert](../../1_assert_statements) statements so you can test the existing method and your changes.
 2. [Pseudocode](../../references/pseudocode.md)

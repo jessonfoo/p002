@@ -6,7 +6,7 @@
 - Explain the symptoms and consequences of stereotype threat
 - Create strategies for combating stereotype threat
 
-## Directions
+## Release 0:
 
 Create a new HTML file in your [USERNAME].github.io website. Name it `week6_cultural_blog.html`. Copy the Code from your `blog_template`. 
 

@@ -3,14 +3,14 @@
 # U2.W4: Calculate the Median
 
 
-## Learning Objectives
+## Learning Competencies
 - Use tests to guide development
 - Break down problems into implementable pseudocode 
 - Use strings, integers, arrays, and/or hashes
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 
 
-## Directions
+## Release 0:
 Aren't you glad you've already done this in JavaScript? Now is your chance to translate your
 logic into Ruby!
 

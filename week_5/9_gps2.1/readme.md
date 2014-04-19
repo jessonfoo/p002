@@ -12,7 +12,7 @@
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you have the option to completely trash the code and start over or work with the code that's here, but make sure that it works the same way. The driver code should still print "true" without being modified.
 
-## Directions
+## Release 0:
 
 1. Whenever you get a set of code, you want to run it to make sure it works. Run the code in your terminal before making any changes.
 2. Based on the test code at the bottom, what is the code doing (in general)? Identify the inputs and outputs? What do the tests output and why?

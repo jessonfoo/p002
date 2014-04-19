@@ -13,7 +13,7 @@ Create a class `BoggleBoard` that includes the functionality of your methods fro
 To do this, take a look at the methods you've created.  How can they be integrated into your BoggleBoard class?  What needs to change?
 
 
-## Directions
+## Release 0:
  
 ####1. Transform your [Driver Test Code](../../references/driver_code.md) so that it creates a new board object. You'll need to pass the original 2D array as an argument. (Let's calle that `dice_grid` becasue boggle_board is going to be its own object now!) This is already in your [solution](my_solution.rb) file. How does the `boggle_board` object hold the `dice_grid`?
 ####2. Implement your methods

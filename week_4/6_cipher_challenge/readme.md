@@ -11,7 +11,7 @@
 ## Summary
 The N.S.A. just broke Kim Jong Un's cipher that he's been using to give instructions to his military commanders! We wrote the following program to decipher the messages. As the N.S.A.'s best programmer on staff, your job is to refactor the code. 
 
-## Directions 
+## Release 0: 
 You should work with a person in your accountability group to complete this challenge. Person 1 should pair with Person 2, Person 3 should pair with person 4. If you have an extra person, have him/her join one of the other pairs. 
 
 In this challenge, you'll work with a pair (or group of three) to refactor some existing code to make it more readable and follow ruby best practices. Then you will compare your solution with the other pair(s) in your accountability groups. 

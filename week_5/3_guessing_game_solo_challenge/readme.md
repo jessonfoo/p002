@@ -57,7 +57,7 @@ puts "#{last_guess} was correct!"
 
 
 
-## Directions
+## Release 0:
  
 1. Run the Rspec tests, and then translate at least 3 of the tests into [Driver Test Code](../../references/driver_code.md) and include it in the driver code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
 2. [Pseudocode](../../references/pseudocode.md)

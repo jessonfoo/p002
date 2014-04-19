@@ -17,7 +17,7 @@ In this challenge, you will create a program that will output something to "turn
 You will have to create your own tests for this challenge as well. 
 
 
-## Directions
+## Release 0:
 You will want to use a single template to do at least three different responses on three different subjects.
 
 ### User Stories: 

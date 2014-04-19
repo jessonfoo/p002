@@ -3,7 +3,7 @@
 # U2.W4: Add it up!
 
 
-## Learning Objectives
+## Learning Competencies
 - Use Tests to guide development
 - Break down problems into implementable pseudocode
 - Iterate through data structures and manipulate the content
@@ -11,7 +11,7 @@
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 
 
-## Directions
+## Release 0:
 Write a method `total` which takes an `Array` of numbers as its input and returns their total (sum).
 
 For example,

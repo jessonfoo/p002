@@ -2,14 +2,14 @@
 
 # U2.W4: Calculate a Letter Grade
 
-## Learning Objectives
+## Learning Competencies
 - Use tests to guide development
 - Break down problems into implementable pseudocode 
 - Find and use built-in Ruby methods to solve challenges
 -  Use if/else statements, string methods, while/until loops, Enumerable#each methods
 
 
-## Directions
+## Release 0:
 Create a method `get_grade` that accepts an `Array` of test scores.  Each score in the array should be between `0` and `100`, where
 `100` is the max score.
 

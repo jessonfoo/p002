@@ -7,7 +7,7 @@
 - Explain why it is a problem and some background
 - Hypothesize about potential solutions
 
-## Directions
+## Release 0:
 
 Copy your blog tempate into a new HTML file named `week5_cultural.html`. 
 

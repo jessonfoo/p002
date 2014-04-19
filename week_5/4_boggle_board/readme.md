@@ -69,7 +69,7 @@ puts boggle_board[3][3] == "e" #=> should be true
 puts boggle_board[2][3] == "x" #=> should be false
 ```
 
-## Directions
+## Release 0:
  
 1. Start with [Pseudocode](../../references/pseudocode.md) after playing in IRB with nested arrays. 
 2. [Initial Solution](../../references/initial_solution.md)

@@ -18,7 +18,7 @@ The C.D.C. (Centers for Disease Control) is concerned about a recent form of dea
 The initial program is not very D.R.Y., but the program designer went on vacation and your boss needs the model to work efficiently so researchers can use it. You've been brought in to make the code more efficient and expandable for later features such as incorporating demographic data. 
 
 
-## Directions
+## Release 0:
  
 1. Run the code.  Look at the output.  Look at the input (it's in the other file).  Explain what the program is doing.
 2. Write a comment explaining the require_relative statement - You should be somewhat familiar with this by now.

@@ -22,7 +22,7 @@ separate_comma(100)     # => "100"
 
 You have some rspec for this. It's saved in your `my_solutions` directory. If you can think of any cases the RSpec doesn't cover, see if you can write tests using Driver Test Code that test the missing case.
 
-## Directions
+## Release 0:
  
 1. Write [Driver Test Code](../../references/driver_code.md)
 2. [Pseudocode](../../references/pseudocode.md)

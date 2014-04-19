@@ -2,11 +2,11 @@
 
 # U2.W4: Review, Refactor: Pad an Array
 
-## Learning Objectives
+## Learning Competencies
 - Identify and explain what code is doing
 - Implement new methods to solve a problem
 
-## Directions
+## Release 0:
 Here's your opportunity to deepen your understanding of coding principles. In this challenge, you'll review some of your cohort members solutions and then modify your solution to implement new tricks. 
 
 ### 1. Review Others
