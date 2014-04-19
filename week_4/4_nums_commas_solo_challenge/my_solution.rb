@@ -4,7 +4,6 @@
 # include it in this file. Also make sure everything that isn't code
 # is commented in the file.  
 
-# I worked on this challenge [by myself, with: ].
 
 # 1. Pseudocode
 
