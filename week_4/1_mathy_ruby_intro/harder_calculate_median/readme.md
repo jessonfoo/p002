@@ -11,8 +11,6 @@
 
 
 ## Summary:
-Aren't you glad you've already done this in JavaScript? Now is your chance to translate your
-logic into Ruby!
 
 Write a method `median` which takes an `Array` of numbers as its input and returns the median value.
 
@@ -34,8 +32,7 @@ median(["apple","cherry","banana"])      # => "banana"
 ```
 
 ## Release 0:. Run the tests
-In your terminal, navigate to the directory that corresponds to this challenge in your forked 
-`p0_unit1_submission` repo. Type `rspec` followed by the spec file name. ex. `rspec array_total_spec.rb`
+In your terminal, make sure you are in the [harder_calculate_median](./) directory. Type `rspec` followed by the spec file name. ex. `rspec median_spec.rb`
 Each test should fail. Read the output in your terminal to see what is making the tests fail.
 
 ## Release 1: [Pseudocode](../../../references/pseudocode.md) *commit your changes*
