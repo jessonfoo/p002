@@ -16,7 +16,7 @@ This week you get a bit more choice on which challenges to do. If you want to go
 3. [Group Research Methods](3_group_research_methods)
 4. [Separate Numbers with Commas SOLO CHALLENGE](4_nums_commas_solo_challenge)
 5. [Pad an Array](5_pad_array)
-6. [6_cipher_challenge](6_cipher_challenge)
+6. [Cipher Challenge](6_cipher_challenge) *Pair with a person in your accountability group*
 7. [Refactor](7_refactor) **Select 1 to do**
 8. [Technical Blog](8_technical_blog.md)
 9. [Cultural Blog](9_cultural_blog.md)
