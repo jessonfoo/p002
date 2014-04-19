@@ -13,9 +13,19 @@ So you've already done the cipher challenge and refactored it for clarity. Did y
 Use IRB to figure out exactly how the various methods work. Try to implement them on your own! 
 
  
-## Release 0: Read through the solution in the [my_solution](my_solution.rb) file. 
-## Release 1: Comment each line to describe what it's doing
-## Release 2: Answer the questions in that respective section
-## Release 3: [Reflect](../../../references/reflection_guidelines.md)
-## Release 4: Sync your changes (push your solution) to Github
+## Release 0: 
+Read the my_solution](my_solution.rb) file. 
+
+## Release 1: 
+Comment each line to describe what it's doing
+
+## Release 2: 
+Answer the questions in that respective section.
+
+## Release 3: 
+[Reflect](../../../references/reflection_guidelines.md)
+
+## Release 4: 
+Sync your changes (push your solution) to Github
+
 ## Release 5: [Review](../../../references/review.md)
