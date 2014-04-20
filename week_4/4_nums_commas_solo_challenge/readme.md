@@ -1,4 +1,4 @@
-[Week 4 Home](./)
+[Week 4 Home](../)
 
 # U2.W4: Separate Numbers with Commas
 
