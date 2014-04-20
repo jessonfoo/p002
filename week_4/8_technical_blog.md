@@ -15,15 +15,15 @@ Copy your blog tempate into a new HTML file named `week4_technical.html`.
 
 
 ## Release 1:
-#### Option 1: Teach about Enumerable Methods
+### Option 1: Teach about Enumerable Methods
 Select one of the ruby methods below, do some research on it, and think of a scenario that could teach how to use this method. Then write a blog that explains how it works (and what it works on) using that scenario. Be sure to include samples of code in your blog! It's good for people to see what you are talking about. 
 
-## Topics
+#### Topics
 - `Enumerable#map`
 - `Enumerable#group_by`
 - `Enumerable#cycle`
 
-#### Option 2: Research Questions
+### Option 2: Research Questions
 Research one of the following questions/topics. In your blog post, you will want to explain the background and teach others how to implement what you've learned. 
 
 - Arrays vs. Hashes. What are they? What are they good for? How do you know which one to use? (Teach others a strategy for deciding)
