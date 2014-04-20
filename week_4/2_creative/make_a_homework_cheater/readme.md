@@ -16,25 +16,6 @@ In this challenge, you will create a program that will output something to "turn
 
 You will have to create your own tests for this challenge as well. 
 
-
-## Release 0:
-You will want to use a single template to do at least three different responses on three different subjects.
-
-### User Stories: 
-As a user, I want to
-- Create a generic template
-- Use the generic template (without overwriting it)
-- Input a title into the template
-- Identify and pass in a person/place/topic into the template
-- Input an important date into the template
-- Input my thesis statement into the template
-- Output my finished template onto the screen
-
-BONUS
-- Use the appropriate pronoun for a person (male or female), place, or thing (HINT: this may be a good place to try creating an object...)
-- Modify singular and plural nouns based on basic rules. (ie. you probably don't want to bother with something as crazy as "fish")
-- Refer to a person by the last name after the first use of their name
-
 For example:
 
 ```ruby
@@ -52,15 +33,33 @@ essay_writer("The First Shogun", "Tokugawa Ieyasu", 1603, "His most important co
 # time that lasted over 200 years. Tokugawa's contribution is important.
 
 ```
+
+## Release 0: Create a Template
+You will want to use a single template to do at least three different responses on three different subjects.
+
+### User Stories: 
+As a user, I want to
+- Create a generic template
+- Use the generic template (without overwriting it)
+- Input a title into the template
+- Identify and pass in a person/place/topic into the template
+- Input an important date into the template
+- Input my thesis statement into the template
+- Output my finished template onto the screen
+
  
-1. Write [Driver Test Code](../references/driver_code.md) 
+## Release 1: Write [Driver Test Code](../references/driver_code.md) 
   - First, write your generic template (store in a variable)
   - Then identify the three topics and write out your ideal paragraph using your generic template. Store these in variables. 
-2. [Pseudocode](../references/pseudocode.md)
-3. [Initial Solution](../references/initial_solution.md)
-4. [Refactored Solution](../references/refactoring.md)
-5. [Reflect](../references/reflection_guidelines.md)
-6. Sync your changes (push your solution) to Github
-7. [Review](../references/review.md)
+## Release 2: [Pseudocode](../references/pseudocode.md)
+## Release 3: [Initial Solution](../references/initial_solution.md)
+## Release 4: [Refactored Solution](../references/refactoring.md)
+## Release 5: [Reflect](../references/reflection_guidelines.md)
+## Release 6: Sync your changes (push your solution) to Github
+## Release 7: [Review](../references/review.md)
 
+##Optimize your Learning!
+- Use the appropriate pronoun for a person (male or female), place, or thing (HINT: this may be a good place to try creating an object...)
+- Modify singular and plural nouns based on basic rules. (ie. you probably don't want to bother with something as crazy as "fish")
+- Refer to a person by the last name after the first use of their name
 

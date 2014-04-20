@@ -22,13 +22,11 @@ You will want to consider:
 - Should it remember past outputs or not?
 
 
-## Release 0:
- 
-1. Write [Driver Test Code](../references/driver_code.md)
-2. [Pseudocode](../references/pseudocode.md)
-3. [Initial Solution](../references/initial_solution.md)
-4. [Refactored Solution](../references/refactoring.md)
-5. [Reflect](../references/reflection_guidelines.md)
-6. Sync your changes (push your solution) to Github
-7. [Review](../references/review.md)
+## Release 0: Write [Driver Test Code](../references/driver_code.md)
+## Release 1: [Pseudocode](../references/pseudocode.md)
+## Release 2: [Initial Solution](../references/initial_solution.md)
+## Release 3: [Refactored Solution](../references/refactoring.md)
+## Release 4: [Reflect](../references/reflection_guidelines.md)
+## Release 5: Sync your changes (push your solution) to Github
+## Release 6: [Review](../references/review.md)
 
