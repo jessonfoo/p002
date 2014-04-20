@@ -42,7 +42,7 @@ You will want to run and modify all files from your local repository on your com
 
 When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
-You need to submit your work through [this google form](https://docs.google.com/forms/d/1Tjg3YO2Nb_JSvauKIdr2vXcRvZ074yrVQhXxjg81sLc/viewform) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
+You need to submit your work through a form (to be released) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
