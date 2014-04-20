@@ -27,7 +27,9 @@ Really focus on breaking each step down. You want to understand every line. **Co
 ## Release 3: [Refactor (by rewriting) the initial solution](../../references/refactoring.md)
   - Clean up the variable names. 
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? **Commit your changes.*
-## Release 4: [Reflect](../../references/reflection_guidelines.md) **Commit your changes.*
+
+## Release 4: [Reflect](../../references/reflection_guidelines.md) 
+**Commit your changes.*
 ## Release 5: Sync your changes 
 (Push your solution) to Github, then email your code to your accountability group.
 ## Release 6: [Review](../../references/review.md) 
