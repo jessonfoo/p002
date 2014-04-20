@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U1.W5: Technical Blog Entry
+# U2.W5: Technical Blog Entry
 
 ## Learning Competencies
 - Explain when, why, and how to use classes

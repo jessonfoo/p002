@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U2, W5: Cultural Blog - Issues in Tech
+# U2.W5: Cultural Blog - Issues in Tech
 
 ## Learning Competencies
 - Identify a problem facing the tech world
