@@ -15,7 +15,7 @@ Copy their code into your `my_solution.rb` file and run the rspec to make sure t
 **Commit your changes.**
 
 ## Release 1: Refactor Yours
-Copy your initial solution into the `my_solution.rb` file. Then, in the "refactored solution" section, re-write your solution using the new tricks you learned. 
+Copy your initial solution into the my_solution](my_solution.rb) file. Then, in the "refactored solution" section, re-write your solution using the new tricks you learned. 
 **Make inline comments explaining your additions!** (How does this code work?  Why did you add it? What makes it better code?)  
 **Commit your changes.**
 
@@ -23,8 +23,8 @@ Copy your initial solution into the `my_solution.rb` file. Then, in the "refacto
 Comment out all other solutions in your file and run the spec file. Your code should pass all of the tests. 
 **Commit your changes.**
 
-## Release 3: Reflect
-Reflect on your learning in the file. Use the [reflection guidelines](../week_2/reflection_guidelines.md) to guide your reflection. Commit your changes.
+## Release 3: [Reflect]((../../../references/reflection_guidelines.md))
+Reflect on your learning in the [my_solution](my_solution.rb) file. 
 ***NOTE: Reflections are mandatory!*** 
 
 ## Release 4: Sync your repo with GitHub
