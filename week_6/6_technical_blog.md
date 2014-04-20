@@ -1,6 +1,6 @@
 [Week 6 Home](./)
 
-# U1.W6: Technical Blog Entry
+# U2.W6: Technical Blog Entry
 
 ## Learning Competencies
 - Compare Functional and Object-Oriented Programming 
