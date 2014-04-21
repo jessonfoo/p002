@@ -22,7 +22,7 @@ You will want to consider:
 - Should it remember past outputs or not?
 
 
-## Release 0: Write [Driver Test Code](../references/driver_code.md)
+## Release 0: Write [Driver Test Code](../../../references/driver_code.md)
 ## Release 1: [Pseudocode](../references/pseudocode.md)
 ## Release 2: [Initial Solution](../references/initial_solution.md)
 ## Release 3: [Refactored Solution](../references/refactoring.md)
