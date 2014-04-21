@@ -23,10 +23,10 @@ You will want to consider:
 
 
 ## Release 0: Write [Driver Test Code](../../../references/driver_code.md)
-## Release 1: [Pseudocode](../references/pseudocode.md)
-## Release 2: [Initial Solution](../references/initial_solution.md)
-## Release 3: [Refactored Solution](../references/refactoring.md)
-## Release 4: [Reflect](../references/reflection_guidelines.md)
+## Release 1: [Pseudocode](../../../references/pseudocode.md)
+## Release 2: [Initial Solution](../../../references/initial_solution.md)
+## Release 3: [Refactored Solution](../../../references/refactoring.md)
+## Release 4: [Reflect](../../../references/reflection_guidelines.md)
 ## Release 5: Sync your changes (push your solution) to Github
-## Release 6: [Review](../references/review.md)
+## Release 6: [Review](../../../references/review.md)
 
