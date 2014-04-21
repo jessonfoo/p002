@@ -51,6 +51,7 @@ As a user, I want to
 ## Release 1: Write [Driver Test Code](../../../references/driver_code.md) 
   - First, write your generic template (store in a variable)
   - Then identify the three topics and write out your ideal paragraph using your generic template. Store these in variables. 
+  
 ## Release 2: [Pseudocode](../../../references/pseudocode.md)
 ## Release 3: [Initial Solution](../../../references/initial_solution.md)
 ## Release 4: [Refactored Solution](../../../references/refactoring.md)
