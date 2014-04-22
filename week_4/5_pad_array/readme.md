@@ -61,7 +61,7 @@ Each test should fail. Read the output in your terminal to see what is making th
 *commit your changes*
 
 ## Release 4:  [Reflect](../../references/reflection_guidelines.md) 
-Include your reflection in the appropriate section in your `my_solution` file. Use the [reflection guidelines](../../reflection_guidelines.md) to guide your reflection. ***NOTE: Reflections are mandatory!*** Commit your changes!
+Include your reflection in the appropriate section in your `my_solution` file. ***NOTE: Reflections are mandatory!*** Commit your changes!
 
 ## Release 5: Sync your repo with GitHub
 When you feel confident with your solution, sync your changes through the GitHub desktop app with your repo on GitHub. 
