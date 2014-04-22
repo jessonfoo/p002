@@ -1,41 +1,30 @@
 [Week 4 Home](./)
 
-# U2.W4 Pairing and Giving Feedback
+# U2.W4 Dealing with Conflict
 
 ## Learning Competencies
-- Identify one emotion that arose during a pairing session
-- Describe kind, actionable, and specific feedback
-- Discuss the feeling of vulnerablity when pairing and reading feedback
+- Describe how you delt with conflict
+- Evaluate whether your actions produced positive or negative reactions
 
-## Releases 0: Use Template
+## Release 0:
 
-First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week4_cultural_blog.html`. Copy the Code from your `blog_template`. Open your file and write a response to the following questions using the HTML you've learned.
+First, create a new HTML file for your this post in your [USERNAME].github.io website. Create a new HTML file and use the date to name it `week4_cultural_blog.html`. Copy the Code from your `blog_template`. 
 
-By now you should have completed two guided pairing sessions, three peer-pairing sessions, and submitted/received 5 pieces of feedback. 
-(If you haven't, make sure you've 1. Submitted feedback for your session and 2. You've rated at least 20 pieces of feedback for unit 1. 
+## Release 1: 
+Remember the [compass of shame](http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf)? Oftentimes when we have a conflict with someone we use one of our strategies for dealing with shame. 
 
-## Release 1: Write your Blog
-Discuss (at least) the following in your blog post:
-#### Pairing: 
-- What was it like to pair with others to solve challenges?
-- Was something particularly fun or rewarding?
-- Was something frustrating and difficult for you?
+Conduct some research on strategies for identifying the sources for conflict then discuss a time you had a conflict in your life. Identify the reason you had the conflict and whether your actions made it better or worse. 
 
-#### Feedback
-- How did you feel when you read your feedback? 
-- Was the feedback you received helpful to your learning?
-- Based on the feedback you've received, what are you going to 
-do to improve next time you pair?
-- How was it to write feedback? 
-- What was most difficult for you when writing feedback for your pair?
+Once you've opened your file, write a response to each exercise using the HTML you've learned to set up the file: 
 
-Overall, what do you think of using pairing and feedback to guide your learning?
+1. Discuss a time you had an emotional conflict with someone. What was it about? What happened? 
+2. What was the source of the conflict?
+3. How did you handle that conflict? 
+4. Did your actions make the conflict better or worse?
+5. If you could go back, what would you do differently, if anything?
+6. What did you learn from this experience?
 
-*Remember, there is no minimum length, but write this for an audience.* 
+## Release 2: Make it Live!
+Link to your blog on the index of your site and sync your changes. 
 
-## Release 2: Submission!
-Link to your blog on the index of your github.io site and sync your changes. 
-
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
-
-Post a comment on their community post to start a discussion or give some feedback.  Consider sharing your blog post on Reddit as well.
+Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? Comment on their post!
