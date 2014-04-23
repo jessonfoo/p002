@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Identify and explain what code is doing
-- Implement new methods to solve a problem
+- Implement new ways to solve a problem
 
 ## Summary
 Here's your opportunity to deepen your understanding of coding principles. In this challenge, you'll review some of your cohort members solutions and then modify your solution to implement new tricks. 
