@@ -42,7 +42,9 @@ You will want to run and modify all files from your local repository on your com
 
 When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
-You need to submit your work through a form (to be released) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
+You need to submit your work through on [apply.devbootcamp.com](apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 4 Submission" form. Please fill it out. Note: It will take you a bit of time to complete. 
+
+Please let me know if you have any questions or issues by responding to this post!﻿
 
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
