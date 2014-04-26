@@ -69,15 +69,18 @@ puts boggle_board[3][3] == "e" #=> should be true
 puts boggle_board[2][3] == "x" #=> should be false
 ```
 
-## Release 0:
- 
-1. Start with [Pseudocode](../../references/pseudocode.md) after playing in IRB with nested arrays. 
-2. [Initial Solution](../../references/initial_solution.md)
-3. Write 2 Tests using [Driver Test Code](../../references/driver_code.md)
-3. [Refactored Solution](../../references/refactoring.md)
-4. [Reflect](../../references/reflection_guidelines.md)
-5. Sync your changes (push your solution) to Github
-6. [Review](../../references/review.md)
+
+## Release 0: [Pseudocode](../../references/pseudocode.md)
+
+## Release 1: [Initial Solution](../../references/initial_solution.md)
+
+## Release 2: [Refactored Solution](../../references/refactoring.md)
+
+## Release 3: [Reflect](../../references/reflection_guidelines.md)
+
+## Release 4: Sync your changes (push your solution) to Github
+
+## Release 5: [Review](../../references/review.md)
 
 
 ## External Resources

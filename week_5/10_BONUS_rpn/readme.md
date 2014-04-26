@@ -29,12 +29,19 @@ calc.evaluate('50 20 -') # => 30
 calc.evaluate('70 10 4 + 5 * -') # => 0
 ```
 
-## Release 0:
+## Release 0: Run the Tests
  
-1. Run the Rspec tests, and then translate at least 3 of the tests into [Driver Test Code](../../references/driver_code.md) and include it in the driver code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
-2. [Pseudocode](../../references/pseudocode.md)
-3. [Initial Solution](../../references/initial_solution.md)
-4. [Refactored Solution](../../references/refactoring.md)
-5. [Reflect](../../references/reflection_guidelines.md)
-6. Sync your changes (push your solution) to Github
-7. [Review](../../references/review.md)
+## Release 1: Translate the tests
+Translate at least 3 of the tests into [Driver Test Code](../../references/driver_code.md) and include it in the driver code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
+
+## Release 2: [Pseudocode](../../references/pseudocode.md)
+
+## Release 3: [Initial Solution](../../references/initial_solution.md)
+
+## Release 4: [Refactored Solution](../../references/refactoring.md)
+
+## Release 5: [Reflect](../../references/reflection_guidelines.md)
+
+## Release 6: Sync your changes (push your solution) to Github
+
+## Release 7: [Review](../../references/review.md)
