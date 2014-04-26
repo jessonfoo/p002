@@ -3,8 +3,8 @@
 In this unit, you will go into more depth into Ruby and really start problem solving. You will have to create your own tests and determine what it means to be successful with a challenge. 
 
 
-###[Week 4](week_4)
-### Week 5 *(will be ready on 4/27/14)*
+### [Week 4](week_4)
+### [Week 5](week_5)
 ### Week 6 *(will be ready on 5/4/14)*
 
 ## Unit Goals
