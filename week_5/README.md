@@ -17,11 +17,9 @@ This week you will be working on creating ruby classes and translating RSpec int
 
 
 ## Sync DBC's Changes
-####It's time to sync changes from DevBootcamp's phase_0_unit 2 master repo.
-- If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
-)
-directions. 
-- If you are doing it from the command line, follow [these](https://help.github.com/articles/syncing-a-fork) directions.
+####It's time to sync changes from DevBootcamp's phase_0_unit_2 master repo.
+Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md)!
+Modify them for unit 2.
 
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us by posting on the community, but also try to figure out a fix. It will help your markdown skills!
