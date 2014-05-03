@@ -3,9 +3,9 @@
 In this unit, you will go into more depth into Ruby and really start problem solving. You will have to create your own tests and determine what it means to be successful with a challenge. 
 
 
-### [Week 4](week_4)
-### [Week 5](week_5)
-### [Week 6](week_6)
+### [Week 4: Ruby Algorithms](week_4)
+### [Week 5: Ruby Classes](week_5)
+### [Week 6: Object-Oriented Design](week_6)
 
 ## Unit Goals
 
