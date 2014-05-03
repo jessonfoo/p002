@@ -25,7 +25,8 @@ Take the driver code and turn it into assert statments with valid and invalid ca
 
 ## Release 1: [Pseudocode](../../references/pseudocode.md)
 
-## Release 2: Comment each block in the original solution
+## Release 2: Comment the code 
+Comment each chunk of code in the original solution
 
 ## Release 3: [Refactor](../../references/refactoring.md) the solution for readability
 
