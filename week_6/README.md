@@ -1,4 +1,4 @@
-# Week 6: Object Oriented Design in Ruby
+# Week 6: Object-Oriented Design in Ruby
 
 Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There is a great resource called [Practical Object-Oriented Design in Ruby (book)](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There isn't a free copy online, so use the mighty power of google (and the free book preview on Amazon) to introduce yourself to the fundamentals of object-oriented design.
 
@@ -35,6 +35,8 @@ You need to submit your work on the Unit 2, Week 6 submission form on [apply.dev
 - Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (4 for peer-pairing, and 1 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
+## Link Issues in the Repository
+You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well. 
 
 ## Resources
 *These are for reference if you want some additional sources.* 
