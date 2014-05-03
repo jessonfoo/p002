@@ -1,6 +1,6 @@
-[Week 3 Home](../)
+[Week 6 Home](../)
 
-#U1.W3: "Git" Started
+#U2.W6: "Git" Started
 
 ## Learning Competencies
 - Use git commands in the terminal

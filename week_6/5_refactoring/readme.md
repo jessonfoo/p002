@@ -20,12 +20,18 @@ Paste the original unrefactored code in your gist, and as you refactor, make not
 - Minimizes need for comments because the code tells you what it is doing
 - Code is formatted with proper indentation for optimal readability
 
-## Release 0:
- 
-1. Write tests using [assert](../../1_assert_statements) statements so you can test the existing method and your changes.
-2. [Pseudocode](../../references/pseudocode.md)
-3. Comment each block in the original solution
-4. [Refactor](../../references/refactoring.md) the solution for readability
-5. [Reflect](../../references/reflection_guidelines.md)
-6. Sync your changes (push your solution) to Github
-7. [Review](../../references/review.md)
+## Release 0: Write [assert](../../1_assert_statements) statements
+Take the driver code and turn it into assert statments with valid and invalid card numbers.
+
+## Release 1: [Pseudocode](../../references/pseudocode.md)
+
+## Release 2: Comment each block in the original solution
+
+## Release 3: [Refactor](../../references/refactoring.md) the solution for readability
+
+## Release 4: [Reflect](../../references/reflection_guidelines.md)
+
+## Release 5: Push your solution to Github
+
+## Release 6: [Review](../../references/review.md)
+Write feedback for at least two other solutions!

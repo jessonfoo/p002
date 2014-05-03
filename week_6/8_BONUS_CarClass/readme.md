@@ -26,10 +26,12 @@ You are tasked with creating a `Car` object that is to operate in the context of
 
 What are the characteristics associated with the car?  These are your attributes.  What are the actions associated with your car?  These are your methods. 
 
-## Release 0:
+## Release 0: [Pseudocode](../references/pseudocode.md)
+Create a simple list of the attributes and methods (don't worry about your class structure yet!)  Try to be explicit and show if your methods are receiving any parameters.
 
-1. Create a simple list of the attributes and methods (don't worry about your class structure yet!)  Try to be explicit and show if your methods are receiving any parameters in your [Pseudocode](../references/pseudocode.md) section. 
-2. Write [Driver Test Code](../references/driver_code.md) based on the directions listed: 
+## Release 1: Write [Driver Code](../references/driver_code.md) 
+Base your tests on the following. Include expectatations where it makes sense. 
+
   - Create a new car of your desired model and type  
   - Drive .25 miles (speed limit is 25 mph)  
   - At the stop sign, turn right  
@@ -41,11 +43,20 @@ What are the characteristics associated with the car?  These are your attributes
   - Drive 1.4 miles (speed limit is 35 mph)  
   - Stop at your destination  
   - Log your total distance travelled  
+  
 Notice how the writing out of your driver code can help you to name your methods more concisely.  Also notice how you are getting a much better idea of what your class looks like and what is happening under the hood. (again, no pun intended) 
-3. Using your driver code to fill out the class' innards[Initial Solution](../../references/initial_solution.md)
-4. Add functionality We all know that pizza delivery cars carry a whole bunch of pizzas, and this one has a super cool insulated compartment for keeping the pizzas hot. Include this feature in your car class. The only information about the pizzas you will be concerned with is the type of pizza, so keep things simple. To make things especially convenient, let's add a feature to your car to be able to get the next pizza to be delivered.  (This should be implemented [FIFO](http://en.wikipedia.org/wiki/FIFO) so nobody gets a cold pizza, but it's your call).
-5. Create a new class for pizza. Get creative and make your pizza an actual object!  Perhaps the pizza can be gluten-free or vegetarian (the pizza place is in SF after all).  What methods would you want to add to the pizza class?
-6. [Refactor](../../references/refactoring.md) your code!
-7. [Reflect](../../references/reflection_guidelines.md)
-8. Sync your changes (push your solution) to Github
-9. [Review](../../references/review.md)
+
+## Release 2: Initial Solution
+Using your driver code to fill out the class' innards.
+
+## Release 3: Add a Feature
+Add functionality We all know that pizza delivery cars carry a whole bunch of pizzas, and this one has a super cool insulated compartment for keeping the pizzas hot. Include this feature in your car class. The only information about the pizzas you will be concerned with is the type of pizza, so keep things simple. To make things especially convenient, let's add a feature to your car to be able to get the next pizza to be delivered.  (This should be implemented [FIFO](http://en.wikipedia.org/wiki/FIFO) so nobody gets a cold pizza, but it's your call).
+
+## Release 4: Implement a New Class
+Create a new class for pizza. Get creative and make your pizza an actual object!  Perhaps the pizza can be gluten-free or vegetarian (the pizza place is in SF after all).  What methods would you want to add to the pizza class?
+
+## Release 5: [Refactor](../../references/refactoring.md) your code!
+
+## Release 6: [Reflect](../../references/reflection_guidelines.md)
+
+## Release 7: Push your solution to Github
