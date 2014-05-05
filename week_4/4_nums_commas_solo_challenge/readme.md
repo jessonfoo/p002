@@ -28,4 +28,3 @@ You have some rspec for this. It's saved in your `my_solutions` directory. If yo
 ## Release 3: [Refactored Solution](../../references/refactoring.md)
 ## Release 4: [Reflect](../../references/reflection_guidelines.md)
 ## Release 5: Sync your changes (push your solution) to Github
-## Release 6: [Review](../../references/review.md)

@@ -29,6 +29,6 @@ Go into as much depth feels comfortable for you.
 
 
 ## Release 3: Submit
-Link to your blog on the index of your site and sync your changes. 
+Link to your blog on the index of your github.io site and push your changes. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 

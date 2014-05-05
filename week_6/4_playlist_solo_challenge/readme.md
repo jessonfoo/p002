@@ -33,6 +33,3 @@ Convert as many of the driver code examples into driver test code based on the w
 ## Release 4: [Reflect](../../references/reflection_guidelines.md)
 
 ## Release 5: Push your solution to GitHub
-
-## Release 6: [Review](../../references/review.md)
-Write feedback for at least two other solutions!
