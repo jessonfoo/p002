@@ -5,7 +5,7 @@
 
 ## Learning Competencies
 - Use error messages to correct syntax mistakes and/or drive development
-- Define a method's responsiblity
+- Define a method's responsibility
 
 ## Summary
 
