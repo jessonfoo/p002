@@ -23,7 +23,7 @@ It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [thes
 
 Open your local version of the directory in Sublime. Make your changes and commit/sync as you complete challenges. Try using the command line as much as possible to navigate between directories and run files. 
 
-Make sure to include specific commit messages and sync your changes each time you complete a challenge.
+Make sure to include specific commit messages and Push your changes each time you complete a challenge.
 
 ## Submitting your work
 

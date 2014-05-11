@@ -70,17 +70,17 @@ puts boggle_board[2][3] == "x" #=> should be false
 ```
 
 
-## Release 0: [Pseudocode](../../references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 
-## Release 1: [Initial Solution](../../references/initial_solution.md)
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 
-## Release 2: [Refactored Solution](../../references/refactoring.md)
+## Release 2: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 3: [Reflect](../../references/reflection_guidelines.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
-## Release 4: Sync your changes (push your solution) to Github
+## Release 4: Push your solution to Github
 
-## Release 5: [Review](../../references/review.md)
+## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
 
 ## External Resources

@@ -23,16 +23,16 @@ Just to reiterate, in the previous exercise you passed in a number of sides, `si
 ## Release 0: Run the Tests
  
 ## Release 1: Translate the tests
-Translate at least 3 of the tests into [Driver Test Code](../../references/driver_code.md) and include it in the driver code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
+Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) and include it in the driver code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
 
-## Release 2: [Pseudocode](../../references/pseudocode.md)
+## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 
-## Release 3: [Initial Solution](../../references/initial_solution.md)
+## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 
-## Release 4: [Refactored Solution](../../references/refactoring.md)
+## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 5: [Reflect](../../references/reflection_guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
-## Release 6: Sync your changes (push your solution) to Github
+## Release 6: Push your solution to Github
 
-## Release 7: [Review](../../references/review.md)
+## Release 7: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)

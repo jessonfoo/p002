@@ -25,6 +25,6 @@ Once you've opened your file, write a response to each exercise using the HTML y
 6. What did you learn from this experience?
 
 ## Release 2: Make it Live!
-Link to your blog on the index of your site and sync your changes. 
+Link to your blog on the index of your site and commit and push your changes to GitHub. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? Comment on their post!

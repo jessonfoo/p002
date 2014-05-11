@@ -26,10 +26,10 @@ You are tasked with creating a `Car` object that is to operate in the context of
 
 What are the characteristics associated with the car?  These are your attributes.  What are the actions associated with your car?  These are your methods. 
 
-## Release 0: [Pseudocode](../references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 Create a simple list of the attributes and methods (don't worry about your class structure yet!)  Try to be explicit and show if your methods are receiving any parameters.
 
-## Release 1: Write [Driver Code](../references/driver_code.md) 
+## Release 1: Write [Driver Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) 
 Base your tests on the following. Include expectatations where it makes sense. 
 
   - Create a new car of your desired model and type  
@@ -55,8 +55,8 @@ Add functionality We all know that pizza delivery cars carry a whole bunch of pi
 ## Release 4: Implement a New Class
 Create a new class for pizza. Get creative and make your pizza an actual object!  Perhaps the pizza can be gluten-free or vegetarian (the pizza place is in SF after all).  What methods would you want to add to the pizza class?
 
-## Release 5: [Refactor](../../references/refactoring.md) your code!
+## Release 5: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md) your code!
 
-## Release 6: [Reflect](../../references/reflection_guidelines.md)
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
 ## Release 7: Push your solution to Github

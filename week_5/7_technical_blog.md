@@ -18,7 +18,7 @@ Write a blog post about the topic you selected.
 Be sure to be thorough. This is part of your portfolio that will help set you apart to employers when you graduate, so have fun and show your enthusiasm!
 
 ## Release 3: Submit
-Link to your blog on the index of your site and sync your changes. 
+Link to your blog on the index of your site and commit and push your changes to GitHub. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
 

@@ -19,18 +19,22 @@ In this challenge, you'll work with a pair to refactor some existing code to mak
 See what the expected output is.
 
 ## Release 1: Write tests 
-Use [driver test code](../../references/driver_code.md). What can you rely on? What can't you rely on? **Commit your changes.*
+Use [driver test code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md). What can you rely on? What can't you rely on? **Commit your changes.*
+
 ## Release 2: Read the code
-Identify what each line of code is doing. 
+Identify what each line of code is doing. It's located in the [my_solution.rb](my_solution.rb) file. 
 Write comments next to or above each line with an explanation.
 Really focus on breaking each step down. You want to understand every line. **Commit your changes.*
-## Release 3: [Refactor (by rewriting) the initial solution](../../references/refactoring.md)
+
+## Release 3: [Refactor (by rewriting) the initial solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
   - Clean up the variable names. 
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? **Commit your changes.*
 
-## Release 4: [Reflect](../../references/reflection_guidelines.md) 
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) 
 **Commit your changes.*
-## Release 5: Sync your changes 
+
+## Release 5: Push your changes 
 (Push your solution) to Github, then email your code to your accountability group.
-## Release 6: [Review](../../references/review.md) 
+
+## Release 6: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) 
 Review the other solutions in your accountability group. Were the solutions different? What did the others do well or better than you? What did you do well? Comment on each solution. Arrange a half hour discussion to discuss your different approaches.  

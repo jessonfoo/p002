@@ -20,12 +20,12 @@ Run the code from the console. You should encounter 5 errors before it will run 
 Ensure each method is working as expected. You may need to create or modify methods to make the program run properly.
 
 ## Release 3: Test!
-Write tests using [Driver Test Code](../../references/driver_code.md) or `assert` statements (make sure you have your assert method defined!)
+Write tests using [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) or `assert` statements (make sure you have your assert method defined!)
 
 ## Release 4: Call it again (x3)
 Interact with the code by writing at least three more different method calls. Did they return what you expected?
 
-## Release 5: [Reflect](../../references/reflection_guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
 ## Release 6: Push your solution to Github
 

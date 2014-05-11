@@ -105,6 +105,6 @@ Sync your solutions to your repo on GitHub, then find your accountability groups
 Which existing methods did they use? Try to use them based on the instructions your group-mate included. 
 
 ## Release 2: Reflect
-Use the [reflection guidelines](../../references/reflection_guidelines.md) and also discuss the following in the reflection section of the [my_solution](my_solution.rb) file:
+Use the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) and also discuss the following in the reflection section of the [my_solution](my_solution.rb) file:
 What did you learn about researching and explaining your research to others?
 
