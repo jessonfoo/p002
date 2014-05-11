@@ -59,7 +59,7 @@ As a user, I want to
 ## Release 6: Push your solution to Github
 ## Release 7: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
-##Optimize your Learning!
+##Optimize your Learning! (Optional)
 - Use the appropriate pronoun for a person (male or female), place, or thing (HINT: this may be a good place to try creating an object...)
 - Modify singular and plural nouns based on basic rules. (ie. you probably don't want to bother with something as crazy as "fish")
 - Refer to a person by the last name after the first use of their name
