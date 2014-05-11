@@ -6,7 +6,6 @@ Don't forget your Unit Goals (listed below)!
 
 ## Challenges
 
-0. ["Git Started"](0_git_started)
 1. [Testing with Assert Statements](1_assert_statements)
 2. [Drawer Debugger](2_drawer_debugger)
 3. [Creating a BoggleBoard Class](3_BoggleBoard)
