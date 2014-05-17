@@ -53,7 +53,7 @@ Copy your favorite challenge so far into the `my_solution.rb` file in this direc
 
 Practice using assert statements often this week in your challenges!
 
-## Release 2: [Reflect](../../references/reflection_guidelines.md)
+## Release 2: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
 ## Release 3: Push your files Github
 Use the command line!

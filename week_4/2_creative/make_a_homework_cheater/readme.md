@@ -48,18 +48,18 @@ As a user, I want to
 - Output my finished template onto the screen
 
  
-## Release 1: Write [Driver Test Code](../../../references/driver_code.md) 
+## Release 1: Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) 
   - First, write your generic template (store in a variable)
   - Then identify the three topics and write out your ideal paragraph using your generic template. Store these in variables. 
   
-## Release 2: [Pseudocode](../../../references/pseudocode.md)
-## Release 3: [Initial Solution](../../../references/initial_solution.md)
-## Release 4: [Refactored Solution](../../../references/refactoring.md)
-## Release 5: [Reflect](../../../references/reflection_guidelines.md)
-## Release 6: Sync your changes (push your solution) to Github
-## Release 7: [Review](../../../references/review.md)
+## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
+## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
+## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 6: Push your solution to Github
+## Release 7: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
-##Optimize your Learning!
+##Optimize your Learning! (Optional)
 - Use the appropriate pronoun for a person (male or female), place, or thing (HINT: this may be a good place to try creating an object...)
 - Modify singular and plural nouns based on basic rules. (ie. you probably don't want to bother with something as crazy as "fish")
 - Refer to a person by the last name after the first use of their name

@@ -31,13 +31,13 @@ When the session is over, reflect on your learning.
 Submit Feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new)
 
 ## Release 6: Submit your challenge!
-Sync your changes (push your solution) to Github! Remember to include your pair's name!
+Push your solution to Github! Remember to include your pair's name!
  
 
-## Optimize Your Learning:
+## Optimize Your Learning (Optional)
 (In case you didn't get enough of the delicious horrible-code) 
 
-Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](../../references/driver_code.md), [Pseudocode](../../references/pseudocode.md), [Write your initial solution](../../references/initial_solution.md), [Refactor](../../references/refactoring.md), [Reflect](../../references/reflection_guidelines.md))
+Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md), [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md), [Write your initial solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md), [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md))
 
 
 Hi! I am a small bakery owner who has a ruby program that calculates the 

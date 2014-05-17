@@ -20,6 +20,7 @@ Be sure to be thorough. This is part of your portfolio that will help set you ap
 ## Release 3: Publish
 Link to your blog on the index of your site and push your changes. 
 
+
 Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
 ## Release 4: Share!

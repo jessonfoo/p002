@@ -22,9 +22,9 @@ separate_comma(100)     # => "100"
 
 You have some rspec for this. It's saved in your `my_solutions` directory. If you can think of any cases the RSpec doesn't cover, see if you can write tests using Driver Test Code that test the missing case.
 
-## Release 0: Write [Driver Test Code](../../references/driver_code.md)
-## Release 1: [Pseudocode](../../references/pseudocode.md)
-## Release 2: [Initial Solution](../../references/initial_solution.md)
-## Release 3: [Refactored Solution](../../references/refactoring.md)
-## Release 4: [Reflect](../../references/reflection_guidelines.md)
-## Release 5: Sync your changes (push your solution) to Github
+## Release 0: Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md)
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
+## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
+## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 5: Push your solution to Github

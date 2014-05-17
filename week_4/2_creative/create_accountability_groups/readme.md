@@ -13,7 +13,7 @@ By now you should be feeling comfortable with the procedure we would like you to
 
 In this challenge, you are going to make a method that takes an array of names (You'll want to get the list from your Cohort page in Socrates) and outputs a list of accountability groups for three different units. You should try to get everyone into an accountability group of 4, but it's your decision how to deal with cohorts not easily divisible by four. 
 
-You will also not have any tests for this challenge, so it's your job to create them. Read the document on Writing [Driver Test Code](../references/driver_code.md) code with Ruby. You should write tests with expectations that return `true` if the code is working and `false` if it is not.
+You will also not have any tests for this challenge, so it's your job to create them. Read the document on Writing [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) code with Ruby. You should write tests with expectations that return `true` if the code is working and `false` if it is not.
 
 You will want to consider:
 - Are there built-in methods to do this in Ruby?
@@ -22,11 +22,11 @@ You will want to consider:
 - Should it remember past outputs or not?
 
 
-## Release 0: Write [Driver Test Code](../../../references/driver_code.md)
-## Release 1: [Pseudocode](../../../references/pseudocode.md)
-## Release 2: [Initial Solution](../../../references/initial_solution.md)
-## Release 3: [Refactored Solution](../../../references/refactoring.md)
-## Release 4: [Reflect](../../../references/reflection_guidelines.md)
-## Release 5: Sync your changes (push your solution) to Github
-## Release 6: [Review](../../../references/review.md)
+## Release 0: Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md)
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
+## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
+## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 5: Push your solution to Github
+## Release 6: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 

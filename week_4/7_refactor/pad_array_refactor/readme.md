@@ -23,10 +23,10 @@ Copy your initial solution into the my_solution](my_solution.rb) file. Then, in 
 Comment out all other solutions in your file and run the spec file. Your code should pass all of the tests. 
 **Commit your changes.**
 
-## Release 3: [Reflect]((../../../references/reflection_guidelines.md))
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 Reflect on your learning in the [my_solution](my_solution.rb) file. 
 ***NOTE: Reflections are mandatory!*** 
 
-## Release 4: Sync your repo with GitHub
-When you feel confident with your solution, sync your changes through the GitHub desktop app with your repo on GitHub. 
+## Release 4: Commit and Push your changes to Github
+When you feel confident with your solution, push your changes through the command line to your repo on GitHub. 
 If you have done this successfully, you should be able to see your new code on your repo on [github.com](https://github.com).

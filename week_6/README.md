@@ -6,7 +6,6 @@ Don't forget your Unit Goals (listed below)!
 
 ## Challenges
 
-0. ["Git Started"](0_git_started)
 1. [Testing with Assert Statements](1_assert_statements)
 2. [Drawer Debugger](2_drawer_debugger)
 3. [Creating a BoggleBoard Class](3_BoggleBoard)
@@ -24,7 +23,7 @@ It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [thes
 
 Open your local version of the directory in Sublime. Make your changes and commit/sync as you complete challenges. Try using the command line as much as possible to navigate between directories and run files. 
 
-Make sure to include specific commit messages and sync your changes each time you complete a challenge.
+Make sure to include specific commit messages and Push your changes each time you complete a challenge.
 
 ## Submitting your work
 

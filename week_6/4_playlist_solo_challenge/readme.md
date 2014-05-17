@@ -21,15 +21,15 @@ User Error-Driven Development (EDD) to solve the challenge. To do this you will 
 
 After you've fixed each error, you should have fun filling in each of the methods -- but don't forget to go through the normal steps in your coding revelry!
 
-## Release 0: Review the [Driver Test Code](../../references/driver_code.md) 
+## Release 0: Review the [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) 
 Convert as many of the driver code examples into driver test code based on the way you want to implement each method.
 
-## Release 1: [Pseudocode](../../references/pseudocode.md)
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 
-## Release 2: Write your [Initial Solution](../../references/initial_solution.md)
+## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 
-## Release 3: [Refactored](../../references/refactoring.md)
+## Release 3: [Refactored](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 4: [Reflect](../../references/reflection_guidelines.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
 ## Release 5: Push your solution to GitHub

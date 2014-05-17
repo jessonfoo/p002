@@ -30,19 +30,13 @@ This week you will be storing your reflections in the challenge files in this re
 - Fork this (phase_0_unit_2) repository by clicking "Fork" at the top right of the page. 
 - Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
   to give you feedback.
-- Open your GitHub desktop app. Find the `phase_0_unit_2` repository and click "clone to computer." 
+- Clone the `phase_0_unit_2` repository from the command line to your computer.
 
-When you make updates to the files on your local repo, you should commit your work the same way you did for your github.io and phase_0_unit_1 repo through the app. Include a commit message like "added pseudocode and initial solution for add it up."
+When you make updates to the files on your local repo, you should commit and push your work through the command line. Include a commit message like "added pseudocode and initial solution for add it up."
 
-**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.**
-- If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
-)
-directions. 
-- If you are doing it from the command line, follow [these](https://help.github.com/articles/syncing-a-fork) directions.
+**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.** Use [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) instructions and modify them for the phase_0_unit_2 repository.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.rb' files or the spec files. 
-
-When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
 
 ## Remember your Unit Goals!
