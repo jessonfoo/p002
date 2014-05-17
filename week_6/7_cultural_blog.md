@@ -28,7 +28,11 @@ In your post, describe your experiences with stereotype threat and how it affect
 Go into as much depth feels comfortable for you. 
 
 
-## Release 3: Submit
-Link to your blog on the index of your github.io site and push your changes. 
+## Release 3: Publish
+Link to your blog on the index of your site and push your changes. 
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+
+## Release 4: Share!
+
+Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.

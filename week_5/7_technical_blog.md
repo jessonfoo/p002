@@ -17,9 +17,11 @@ You've had a LOT of practice with ruby classes this week, so now is the time to 
 Write a blog post about the topic you selected. 
 Be sure to be thorough. This is part of your portfolio that will help set you apart to employers when you graduate, so have fun and show your enthusiasm!
 
-## Release 3: Submit
-Link to your blog on the index of your site and sync your changes. 
+## Release 3: Publish
+Link to your blog on the index of your site and push your changes. 
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
-Post a comment on their community post to start a discussion or give some feedback.  Consider sharing your blog post on Reddit as well.
+## Release 4: Share!
+
+Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.

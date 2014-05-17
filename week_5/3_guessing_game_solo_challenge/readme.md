@@ -69,5 +69,3 @@ Translate at least 3 of the tests into [Driver Test Code](../../references/drive
 ## Release 5: [Reflect](../../references/reflection_guidelines.md)
 
 ## Release 6: Sync your changes (push your solution) to Github
-
-## Release 7: [Review](../../references/review.md)

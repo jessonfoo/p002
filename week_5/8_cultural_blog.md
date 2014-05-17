@@ -19,7 +19,11 @@ Explain the problem and background in your blog, and then hypothesize potential 
 ## Release 3: Revist HTML/CSS
 Now that you have had some time to work on ruby, go back and practice your HTML. Improve your site. Make it look like a professional website if it doesn't already. Would you want to show a potential employer your site? Make it so you would. 
 
-## Release 4: Submit!
-Link to your blog on the index of your github.io site and sync your changes. 
+## Release 4: Publish
+Link to your blog on the index of your site and push your changes. 
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+Make sure the index of your site is maintained as well!
+
+## Release 5: Share!
+
+Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.

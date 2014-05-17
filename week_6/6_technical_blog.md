@@ -19,12 +19,11 @@ So you've had some experience with Object-Oriented Programming (OOP) this week. 
 Write a blog post that teaches your audience about these two paradigms. Think of an example to use to teach your cohort the difference and SHOW your audience the difference. 
 
 
-## Submission
-Link to your blog on the index of your github.io site and push your changes. 
+## Release 3: Publish
+Link to your blog on the index of your site and push your changes. 
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
-Post a comment on their community post to start a discussion or give some feedback.  Consider sharing your blog post on Reddit as well.
+## Release 4: Share!
 
-## Optimize your learning (Optional)
-Do you like your blog design? How can you improve it? Make it better by updating the CSS and HTML. This is your portfolio!
+Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
