@@ -26,9 +26,6 @@ boggle_board = [["b", "r", "a", "e"],
 
 If we wanted to access the "r" character in the first row, we'd use the syntax below because "r" is in row 0 and under column 1. (Remember that arrays start counting from 0).
 
-### This challenge has 3 Parts. For each section, follow the directions below. 
-
-####Part 1: Access multiple elements of a nested array
 In boggle, you can spell out words by collecting letters that are immediately next to one another (up, down, across, or diagonally).  One of the words possible in the above boggle board is "code." Below is a simple method that takes a group of coordinates and returns a string of the corresponding `boggle board` elements. 
 
   ```ruby
@@ -39,8 +36,9 @@ In boggle, you can spell out words by collecting letters that are immediately ne
   puts create_word(boggle_board, [2,1], [1,1], [1,2], [0,3])  #=> returns "code"  
   puts create_word(boggle_board, [0,1], [0,2], [1,2])  #=> creates what california slang word?
   ```
+### This challenge has 2 Parts. For each section, follow the steps in the releases. 
 
-#### Part 2: Write a method that takes a row number and returns all the elements in the row.  
+#### Part 1: Write a method that takes a row number and returns all the elements in the row.  
 
 ```ruby
 def get_row(row)
@@ -51,7 +49,7 @@ get_row(1) #=>  ["i", "o", "d", "t"]
 ```
 
 
-#### Part 3: Now write a method that takes a column number and returns all the elements in the column.
+#### Part 2: Now write a method that takes a column number and returns all the elements in the column.
 
 ```ruby
 def get_col(col)
