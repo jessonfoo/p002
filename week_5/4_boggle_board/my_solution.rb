@@ -42,19 +42,3 @@ boggle_board = [["b", "r", "a", "e"],
 
 
 
-#-------------------------------------------------------------------------------
-
-# Part 3: Now write a method that takes a column number and returns all the elements in the column.
-
-# Pseudocode
-
-# Initial Solution
-
-
-# Refactored Solution
-
-
-# DRIVER TESTS GO BELOW THIS LINE
-
-
-# Reflection 
