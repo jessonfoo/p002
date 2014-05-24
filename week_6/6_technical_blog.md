@@ -15,7 +15,7 @@ Copy your blog tempate into a new HTML file named `week6_technical.html`.
 Select and research one of the topics below:
 
 #### Option 1. OO vs. Functional Programming
-So you've had some experience with Object-Oriented Programming (OOP) this week. Some consider Functional programming the opposite of OO. For your technical blog this week, research functional programming so you can compare them in your blog post.
+So you've had some experience with Object-Oriented Programming (OOP) this week. Some consider Functional programming the opposite of OO - compare them. 
 
 #### Option 2: Variable Scope
 What kinds of variables does Ruby support? Where are they accessible? When would you use them and what makes them different?
