@@ -7,7 +7,7 @@ In this unit, you will go into more depth into Ruby and really start problem sol
 ### [Week 5: Ruby Classes](week_5)
 ### [Week 6: Object-Oriented Design](week_6)
 
-## Unit Goals
+## Expectations for the Unit
 
 - [Peer-Pair program](https://github.com/Devbootcamp/phase_0_handbook/blob/master/peer-pairing_sessions.md) **at least 4 times** in your accountability group. Read about [pairing](https://github.com/Devbootcamp/phase_0_handbook/blob/master/pairing_in_phase_0.md) before hand. 
 - [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit 4 for peer sessions and 1 for [GPS 2.1](https://github.com/Devbootcamp/phase_0_handbook/blob/master/guided_pairing_sessions.md))
