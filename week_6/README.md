@@ -1,6 +1,6 @@
 # Week 6: Object-Oriented Design in Ruby
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There is a great resource called [Practical Object-Oriented Design in Ruby (book)](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There isn't a free copy online, so use the mighty power of google (and the free book preview on Amazon) to introduce yourself to the fundamentals of object-oriented design.
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
 
 Don't forget your Expectations for the Unit (listed below)! 
 
