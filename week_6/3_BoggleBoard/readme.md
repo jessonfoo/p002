@@ -27,7 +27,7 @@ Now write some driver code to access an individual coordinate in your `boggle_bo
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
-You just made a transition from procedural programming to object-oriented programming!  How is the implementation different?  What are the benefits to using the Object Oriented approach (even if it is a bit more code?) Make sure to include your reflection in your gist.
+You just made a transition from procedural programming to object-oriented programming!  How is the implementation different?  What are the benefits to using the Object Oriented approach (even if it is a bit more code?) 
 
 ## Release 5: Push your solution to Github
 
