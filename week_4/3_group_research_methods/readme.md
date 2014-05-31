@@ -100,8 +100,8 @@ my_deletion_method(my_family_pets_ages, "George")
 #=> {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 ```
 
-## Release 1: Sync your solutions and grab others!
-Sync your solutions to your repo on GitHub, then find your accountability groups' solutions. Review them. 
+## Release 1: Push your solutions and grab others!
+Push your solutions to your repo on GitHub, then find your accountability groups' solutions. Review them. 
 Which existing methods did they use? Try to use them based on the instructions your group-mate included. 
 
 ## Release 2: Reflect

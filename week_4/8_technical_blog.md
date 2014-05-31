@@ -11,12 +11,15 @@
 
 
 ## Release 0: New file
-Copy your blog tempate into a new HTML file named `week4_technical.html`. 
+In your [USERNAME].github.io repository, create a new directory called "blog-posts". Move all previous blog posts into that directory. Make sure to update the links to your old blog posts on the index of your site so people can easily navigate to your awesome blog posts!
+
+Copy your blog tempate into a new HTML file in the blog-posts directory named `week4_technical.html`. 
 
 
 ## Release 1: Research a Topic
+
 ### Option 1: Teach about Enumerable Methods
-Select one of the ruby methods below, do some research on it, and think of a scenario that could teach how to use this method. Then write a blog that explains how it works (and what it works on) using that scenario. Be sure to include samples of code in your blog! It's good for people to see what you are talking about. 
+Select one of the ruby methods below, do some research on it, and think of a scenario that could teach how to use this method. 
 
 #### Topics
 - `Enumerable#map`
@@ -24,24 +27,27 @@ Select one of the ruby methods below, do some research on it, and think of a sce
 - `Enumerable#cycle`
 
 ### Option 2: Research Questions
-Research one of the following questions/topics. In your blog post, you will want to explain the background and teach others how to implement what you've learned. 
+Research one of the following questions/topics.
 
 - Arrays vs. Hashes. What are they? What are they good for? How do you know which one to use? (Teach others a strategy for deciding)
 - Looping - Discuss the various ways to loop in Ruby. How can you decide which is best to use? (Teach others a strategy for deciding)
 - Ruby vs. JavaScript - Discuss the benefits/drawbacks of each as you've experienced them. Explain to others how to decide which is better to use for what. 
   Also include examples of how to do the same thing in each. 
 
+
+## Release 2: Blog
+Write a blog post that teaches others what you learned about the way these things work and how to use them. Be sure to include code samples in your blog to show others what you are talking about. 
+
 If you want to go more in-depth with any of these research memory use and link it to your strategy for deciding which to use. 
 
 Write this blog for an audience of newb programmers.
 
-
-## Release 2: Publish
+## Release 3: Publish
 Link to your blog on the index of your site and push your changes. 
 
-Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
 
-## Release 3: Share!
+## Release 4: Promote
 
 Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
 

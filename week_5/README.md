@@ -1,6 +1,8 @@
 # Week 5: Ruby Classes
 
-This week you will be working on creating ruby classes and translating RSpec into driver code. Please make sure to follow each step we ask you to do (write driver test code, pseudocode, initial solution, refactoring, reflection, and review). This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with. You can always ask people to pair on the community and work with people from other locations! 
+These challenges are not ready yet. They will be ready at least by the Monday of Week 5. Please do not start them. 
+
+<!-- This week you will be working on creating ruby classes and translating RSpec into driver code. Please make sure to follow each step we ask you to do (write driver test code, pseudocode, initial solution, refactoring, reflection, and review). This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with. You can always ask people to pair on the community and work with people from other locations! 
 
 
 ## Challenges
@@ -15,9 +17,13 @@ This week you will be working on creating ruby classes and translating RSpec int
 9. [GPS 2.1- Don't look until your GPS Session!](9_gps2.1)
 10. [BONUS: Reverse Polish Notation Calculator](10_BONUS_rpn)
 
+## Remember your Expectations for the Unit!
+- Pair at least twice this week with a member of your accountability group.  *You need to pair **6** times this unit*
+- Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
-## Sync DBC's Changes
-####It's time to sync changes from DevBootcamp's phase_0_unit_2 master repo.
+## Fetch DBC's Changes
+####It's time to fetch changes from DevBootcamp's phase_0_unit_2 master repo.
 Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md)!
 Modify them for unit 2.
 
@@ -27,19 +33,8 @@ Once you have the entire local repository on your computer, you don't need to re
 
 ## Submitting your work
 
-**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 5 Submission" form.** 
+**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 5 Submission" form.** It is not enough to have your work on github.
 
-## Remember your Expectations for the Unit!
-- Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (4 for peer-pairing, and 1 GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
-
-## Resources
-*These are for reference if you want some additional sources.* 
-- [Writing our own Class in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
-- [Ruby Classes and Objects](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
-- [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
-- [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
-- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
-- [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
-- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/) - This is a really great Ruby reference. We recommend getting it.  
+## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md)
+ 
+ -->

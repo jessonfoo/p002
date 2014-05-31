@@ -21,12 +21,12 @@ This week you get a bit more choice on which challenges to do. If you want to go
 8. [Technical Blog](8_technical_blog.md)
 9. [Cultural Blog](9_cultural_blog.md)
 
+## Remember your Expectations for the Unit!
+- Pair at least twice this week with a member of your accountability group.  *You need to pair **6** times this unit*
+- Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
-## Submitting your work
-
-**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 4 Submission" form.** 
-
-This week you will be storing your reflections in the challenge files in this repository. 
+## Working through the Challenges
 - Fork this (phase_0_unit_2) repository by clicking "Fork" at the top right of the page. 
 - Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
   to give you feedback.
@@ -34,20 +34,14 @@ This week you will be storing your reflections in the challenge files in this re
 
 When you make updates to the files on your local repo, you should commit and push your work through the command line. Include a commit message like "added pseudocode and initial solution for add it up."
 
-**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.** Use [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) instructions and modify them for the phase_0_unit_2 repository.
+**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.** Use [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) instructions. Substitute phase_0_unit_2 for each instance of phase_0_unit_1 in the instructions.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.rb' files or the spec files. 
 
+## Submitting your work
 
-## Remember your Expectations for the Unit!
-- Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (4 for peer-pairing, and 1 GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
+**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 4 Submission" form.** It is not enough to push your changes to your fork on github.
 
-## Resources
-*These are for reference if you want some additional sources.* 
-- [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
-- [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
-- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
-- [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
-- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)  
+
+## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md)
+

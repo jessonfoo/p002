@@ -20,8 +20,8 @@ Be sure to be thorough. This is part of your portfolio that will help set you ap
 ## Release 3: Publish
 Link to your blog on the index of your site and push your changes. 
 
-Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
 
-## Release 4: Share!
+## Release 4: Promote
 
 Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.

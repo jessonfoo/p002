@@ -8,11 +8,11 @@
 
 ## Release 0: Create the Template
 
-Create a new HTML file in your [USERNAME].github.io website. Name it `week6_cultural_blog.html`. Copy the Code from your `blog_template`. 
+Create a new HTML file in your blog-posts [USERNAME].github.io website. Name it `week6_cultural_blog.html`. Copy the Code from your `blog_template`. 
 
 ## Release 1: Research
 
-Claude M. Steele has spent his life researching minority underachievement and developed a theory called "Stereotype Threat." Conduct your own research about stereotype threat. Identify times when you felt it. How did it affect your achievement? What questions did you ask yourself? Did you feel it physically? 
+Claude M. Steele has spent his life researching minority underachievement and developed a theory called "Stereotype Threat." Conduct your own research about stereotype threat. Identify times when you felt it. How did it affect your achievement? What questions did you ask yourself? Did you feel it physically? If you don't think you've ever felt it, can you imagine some groups that might? What could you do to help others in that situation?
 
 #### Example Resources:
 - [Whistling Vivaldi (book)](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726) - If you have quite a bit of time
@@ -31,8 +31,8 @@ Go into as much depth feels comfortable for you.
 ## Release 3: Publish
 Link to your blog on the index of your site and push your changes. 
 
-Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
 
-## Release 4: Share!
+## Release 4: Promote
 
-Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
+Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic. 
