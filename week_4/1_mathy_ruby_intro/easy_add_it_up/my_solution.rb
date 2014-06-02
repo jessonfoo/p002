@@ -9,13 +9,14 @@
 # 1. Pseudocode
 
 # What is the input?
+# The input is Arr
 # What is the output? (i.e. What should the code return?)
+# the output should return the total of Arr
 # What are the steps needed to solve the problem?
+# I will define the function total to take in Array and return x
 
 
 # 2. Initial Solution
-
-
 
 
 # 3. Refactored Solution
