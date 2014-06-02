@@ -17,7 +17,14 @@
 
 
 # 2. Initial Solution
-
+def total(arr)
+	x = 0
+	@array = arr
+	for i in @array
+		x += @array[i]
+	end
+	return x
+end
 
 # 3. Refactored Solution
 
