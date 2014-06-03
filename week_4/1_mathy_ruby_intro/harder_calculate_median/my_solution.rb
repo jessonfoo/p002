@@ -14,12 +14,28 @@
 
 
 # 2. Initial Solution
-
+def median(array)
+	n = array.sort
+	m = n[n.length/2.0]
+	if n.length%2 == 1
+		return m
+	else
+		return (m + n[(n.length/2.0)-1])/2.0
+	end
+end
 
 
 
 # 3. Refactored Solution
-
+def median(array)
+	n = array.sort
+	m = n[n.length/2.0]
+	if n.length%2 == 1
+		return m
+	else
+		return (m + n[(n.length/2.0)-1])/2.0
+	end
+end
 
 
 # 4. Reflection 
