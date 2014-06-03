@@ -4,7 +4,7 @@
 # include it in this file. Also make sure everything that isn't code
 # is commented in the file.  
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge with yohan yi.
 
 # 1. Pseudocode
 
@@ -17,17 +17,38 @@
 
 
 # 2. Initial Solution
-def total(arr)
-	x = 0
-	@array = arr
-	for i in @array
-		x += @array[i]
-	end
-	return x
-end
+
+# def total(arr)
+# 	x = nil
+# 	@array = arr
+# 	for i in @array
+# 		x += @array[i]
+# 	end
+# 	return x
+# end
+
+# def sentence_maker(arr)
+# 	x = nil
+# 	@array = arr
+# 	for i in @array
+# 		x += @array[i]
+# 	end
+# 	return x
+# end
+
 
 # 3. Refactored Solution
+def total(arr)
+	arr.inject(0) { |x, y| x + y }
+end
 
-
+def sentence_maker(arr)
+	arr.join(" ").capitalize + "."
+end
 
 # 4. Reflection 
+# This challenge was a good refresher course on ruby since I haven't touched it in a while.
+# My initial solution was not working so I
+#
+#
+
