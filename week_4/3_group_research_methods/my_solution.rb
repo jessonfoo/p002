@@ -28,7 +28,7 @@ def my_array_modification_method(source, n)
 	p source
 end
 
-# my_array_modification_method(i_want_pets, 1) 
+#my_array_modification_method(i_want_pets, 1) 
 #=> ["I", "want", 4, "pets", "but", "I", "only", "have", 3, ":(." ] 
 
 def my_hash_modification_method(source, n)
@@ -37,7 +37,7 @@ def my_hash_modification_method(source, n)
   	end
   	puts source
 end
-# my_hash_modification_method(my_family_pets_ages, 2) 
+#my_hash_modification_method(my_family_pets_ages, 2) 
 #=> {"Evi" => 8, "Hoobie" => 5, "George" => 14, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 
 # Identify and describe the ruby method you implemented. 
@@ -63,12 +63,19 @@ end
 
 # Person 4
 def my_array_deletion_method(source, thing_to_delete)
-  #Your code here!
+  source.to_a
+  p source
 end
-
+my_array_deletion_method(i_want_pets, "a") 
+# => ["I", 4, "pets", "but", "I", "only", 3, ":(." ]
 def my_hash_deletion_method(source, thing_to_delete)
-  #Your code here!
+      source[thing_to_delete] = nil
+      source.delete(thing_to_delete)
+      p source
 end
+#my_hash_deletion_method(my_family_pets_ages, "George") 
+#=> {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
+
 
 # Identify and describe the ruby method you implemented. 
 # 
@@ -86,7 +93,7 @@ end
 # p my_hash_modification_method(my_family_pets_ages, 2) == {"Evi" => 8, "Hoobie" => 5, "George" => 14, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 # p my_array_sorting_method(i_want_pets) == ["3", "4", "I", "but", "have", "only", "pets", "want"]
 # p my_hash_sorting_method(my_family_pets_ages) == [["Annabelle", 2], ["Ditto", 5], ["Hoobie", 5], ["Bogart", 6], ["Poly", 6], ["Evi", 8], ["George", 14]] 
-# # This may be false depending on how your method deals with ordering the animals with the same ages.
+#  This may be false depending on how your method deals with ordering the animals with the same ages.
 # p my_array_deletion_method(i_want_pets, "a") == ["I", 4, "pets", "but", "I", "only", 3 ]
 # p my_hash_deletion_method(my_family_pets_ages, "George") == {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 
