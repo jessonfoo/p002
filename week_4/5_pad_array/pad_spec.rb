@@ -21,7 +21,7 @@ describe Array do
   describe "#pad" do
     it "operates non-destructively" do
       all_arrays.each do |array|
-        array.pad(0).object_id.should_not eq(array.object_id)
+        expect(array.pad(0).object_id).to_not eq(array.object_id)
       end
     end
 
@@ -29,32 +29,32 @@ describe Array do
       all_arrays.each do |array|
         pad_size = 1 + rand(50)
 
-        array.pad(array.length + pad_size, 'apple').should eq(array + Array.new(pad_size, 'apple'))
+        expect(array.pad(array.length + pad_size, 'apple')).to eq(array + Array.new(pad_size, 'apple'))
       end
     end
 
     it "doesn't pad when minimum size is equal to the array's length" do
       all_arrays.each do |array|
-        array.pad(array.length).should eq(array)
+        expect(array.pad(array.length)).to eq(array)
       end
     end
 
     it "doesn't pad when the minimum size is 0" do
       all_arrays.each do |array|
-        array.pad(0).should eq(array)
+        expect(array.pad(0)).to eq(array)
       end
     end
 
     it "pads with nil by default" do
-      empty_array.pad(2).should eq([nil, nil])
+      expect(empty_array.pad(2)).to eq([nil, nil])
     end
 
     it "can pad with a string" do
-      empty_array.pad(2, 'apple').should eq(['apple', 'apple'])
+      expect(empty_array.pad(2, 'apple')).to eq(['apple', 'apple'])
     end
 
     it "can pad with an object" do
-      empty_array.pad(2, {}).should eq([{}, {}])
+      expect(empty_array.pad(2, {})).to eq([{}, {}])
     end
   end
 end

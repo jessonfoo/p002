@@ -7,7 +7,6 @@ describe 'mode' do
 
   it "is defined" do
     expect(defined? mode).to eq 'method'
-
   end
 
   it "requires a single argument" do

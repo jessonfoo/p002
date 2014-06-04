@@ -15,8 +15,15 @@
 
 # 2. Initial Solution
 
+class Array
+  def pad!(min_size, value = nil)
+    self.concat Array.new([min_size - self.length, 0].max, value)
+  end
 
-
+  def pad(min_size, value = nil)
+    self.clone.pad!(min_size, value)
+  end
+end
 
 # 3. Refactored Solution
 

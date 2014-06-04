@@ -13,7 +13,6 @@ describe 'total' do
   end
 
   it "returns the correct total of array 1" do
-    
     expect(total(array_1)).to eq 27
   end
 
