@@ -15,8 +15,7 @@
 
 # 2. Initial Solution
 
-
-
+  
 
 # 3. Refactored Solution
 
