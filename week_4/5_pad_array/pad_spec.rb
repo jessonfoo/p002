@@ -10,13 +10,11 @@ describe Array do
 
   describe "#pad!" do
     it "operates destructively" do
-      array.pad!(10).object_id.should eq(array.object_id)
+      expect(array.pad!(10).object_id).to eq(array.object_id)
     end
     
     it "doesn't pad a long array" do
-      expect {
-        long_array.pad!(10)
-      }.to_not change(long_array, :length)
+      expect(long_array.pad!(10).length).to eq 30
     end
   end
 
