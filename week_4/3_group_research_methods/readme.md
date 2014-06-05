@@ -24,7 +24,9 @@ Each person has a challenge to solve. This does not need to be done in any order
 needs each method in order to be correct, however).*
 
 Using the [Ruby Docs](http://ruby-doc.org/) find one method you can use
-on both an array and a hash, and use it on the two structures to complete the goal.
+on both an array and a hash, and use it on the two structures to complete the goal. 
+
+You may use other methods as well, and if you find a method that doesn't work on both, but generally works better for the challenge, feel free to refactor your code, but keep the original solution (commented out).
 
 Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your 
 accountability group how to use them. 
