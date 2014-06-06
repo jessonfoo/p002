@@ -33,7 +33,7 @@ accountability group how to use them.
 
 Each person will be working with the following `Array` and `Hash`: 
 ```ruby
-i_want_pets = ["I", "want", 3, "pets", "but", "I", "only", "have", 2, ":(." ]
+i_want_pets = ["I", "want", 3, "pets", "but", "only", "have", 2, ":(." ]
 my_family_pets_ages = {"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, 
   "Annabelle" => 0, "Ditto" => 3}
 ```
@@ -63,7 +63,7 @@ internal numbers. (Because you can never have too many pets!) For example:
 
 ```ruby
 my_array_modification_method(i_want_pets, 1) 
-#=> ["I", "want", 4, "pets", "but", "I", "only", "have", 3, ":(." ] 
+#=> ["I", "want", 4, "pets", "but", "only", "have", 3, ":(." ] 
 ```
 
 Then create a method that updates the ages in the hash. For Example:
@@ -92,7 +92,7 @@ and a letter, and deletes all the strings that contain that letter. This should 
 For example: 
 ```ruby 
 my_deletion_method(i_want_pets, "a") 
-#=> ["I", 4, "pets", "but", "I", "only", 3, ":(." ]
+#=> ["I", 4, "pets", "but", "only", 3, ":(." ]
 ```
 
 Poor George passed away. He had a good life, but I need to remove him from my list. 
