@@ -19,16 +19,26 @@ end
 #
 
 # Person 2
+
+# def my_array_modification_method(source, n)
+# 	for i in 0...source.size
+# 		if source[i].is_a? Integer
+# 			source[i] += n
+# 		end
+# 	end
+# 	p source
+# end
+
 def my_array_modification_method(source, n)
-	for i in 0...source.size
-		if source[i].is_a? Integer
-			source[i] += n
-		end
-	end
-	p source
+  source.map{|i| 
+    if i.is_a? Integer 
+      i += n 
+    end 
+    i}
+  p source
 end
 
-#my_array_modification_method(i_want_pets, 1) 
+my_array_modification_method(i_want_pets, 1) 
 #=> ["I", "want", 4, "pets", "but", "I", "only", "have", 3, ":(." ] 
 
 def my_hash_modification_method(source, n)
@@ -66,7 +76,7 @@ def my_array_deletion_method(source, thing_to_delete)
   source.to_a
   p source
 end
-my_array_deletion_method(i_want_pets, "a") 
+# my_array_deletion_method(i_want_pets, "a") 
 # => ["I", 4, "pets", "but", "I", "only", 3, ":(." ]
 def my_hash_deletion_method(source, thing_to_delete)
       source[thing_to_delete] = nil
