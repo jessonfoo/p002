@@ -3,7 +3,7 @@
 # U2.W4: Homework Cheater!
 
 ## Learning Competencies
-- Translate a user story into driver code and solutions
+- Translate a user story into driver test code and solutions
 - Create methods that take arguments to modify the output
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 - Differentiate between and produce destructive and non-destructive methods

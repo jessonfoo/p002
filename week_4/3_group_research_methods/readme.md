@@ -20,8 +20,8 @@ figure out exactly how they work before you can implement them properly.
 ## Release 0:
 Refer to your accountability group spreadsheet to find your role. 
 
-Each person has a challenge to solve. This does not need to be done in any order. *(NOTE: the driver code 
-needs each method in order to be correct, however).*
+Each person has a challenge to solve. This does not need to be done in any order. **BUT the driver test code 
+needs each method in order to work.** If you don't have your group-members' solutions, copy, paste, and modify your tests, comment out the originals. Then check it all still works when you get the other code. 
 
 Using the [Ruby Docs](http://ruby-doc.org/) find one method you can use
 on both an array and a hash, and use it on the two structures to complete the goal. 
