@@ -11,7 +11,7 @@ describe GuessingGame do
 
   describe '#guess' do
     it "is defined" do
-      expect(GuessingGame.method_defined?(:guess)).to be_true
+      expect(GuessingGame.method_defined?(:guess)).to be true
     end
 
     it "expects a single argument" do
@@ -54,7 +54,7 @@ describe GuessingGame do
   
   describe '#solved?' do
     it "is defined" do
-      expect(GuessingGame.method_defined?(:solved?)).to be_true
+      expect(GuessingGame.method_defined?(:solved?)).to be true
     end
 
     it "expects no arguments" do
