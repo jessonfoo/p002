@@ -173,8 +173,8 @@ end
 # p my_hash_deletion_method(my_family_pets_ages, "George") == {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 
 # # Reflect!
-# 
-# 
+# This challenge was the fastest one that I did. It was easy to do my part, but when we were workingo n person 4
+# i started having trouble figuring out the array deletion method. Luckily my partners were very helpful.
 # 
 # 
 # 

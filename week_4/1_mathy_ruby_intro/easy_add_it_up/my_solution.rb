@@ -48,7 +48,8 @@ end
 
 # 4. Reflection 
 # This challenge was a good refresher course on ruby since I haven't touched it in a while.
-# My initial solution was not working so I
+# My initial solution was not working so I resorted to looking through the ruby api and i came accross the inject method
+# I had more trouble with the sum creator than wthe sentence maker. this was a fairly good challenge.
 #
 #
 
