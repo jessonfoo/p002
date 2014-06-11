@@ -59,10 +59,10 @@ end
 # p [1,2,3].pad!(5, 'apple')	# =>  [1,2,3,'apple', 'apple']
 # 4. Reflection 
 # 
-# 
-# 
-# 
-# 
+# I enjoyed working on this challenge, but it was very confusing at first. In the beginnning
+# I didnt realize that I needed to specify I would be creating a method for the class itself.
+# I thought that this was really cool that I could make a new method that could be used for the
+# class throughout the project. It took some time and a lot of research but It was very satisfying.
 # 
 # 
 # 
