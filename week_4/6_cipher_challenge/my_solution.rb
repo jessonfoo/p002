@@ -4,13 +4,18 @@
 # I worked on this challenge with: Tommy Dugger.
 
 # 1. Solution
+
+
 # Write your comments on what each thing is doing. 
 # If you have difficulty, go into IRB and play with the methods.
-# def north_korean_cipher(coded_message)
-#   input = coded_message.downcase.split("") # Check out this method in IRB to see how it works! Also refer to the ruby docs.
-#   decoded_sentence = []
-#   cipher = {"e" => "a",   # This is technically a shift of four letters...Can you think of a way to automate this? Is a hash
-#             "f" => "b",   # the best data structure for this problem? What are the pros and cons of hashes?
+
+
+
+# def north_korean_cipher(coded_message)        # => defines the method 
+#   input = coded_message.downcase.split("")    # => creates variable whihc is the message converted to lowercase and split into an array
+#   decoded_sentence = []                       # => sets up an array for the decoded decoded_sentence
+#   cipher = {"e" => "a",                       # => defines the cipher as a hash
+#             "f" => "b",   
 #             "g" => "c", 
 #             "h" => "d", 
 #             "i" => "e", 
@@ -36,34 +41,34 @@
 #             "c" => "y",
 #             "d" => "z"}
             
-#   input.each do |x| # What is #each doing here?
-#     found_match = false  # Why would this be assigned to false from the outset? What happens when it's true?
-#     cipher.each_key do |y| # What is #each_key doing here?
-#       if x == y  # What is this comparing? Where is it getting x? Where is it getting y? What are those variables really?
-#         puts "I am comparing x and y. X is #{x} and Y is #{y}."
-#         decoded_sentence << cipher[y]
-#         found_match = true
-#         break  # Why is it breaking here?
-#       elsif x == "@" || x == "#" || x == "$" || x == "%"|| x == "^" || x == "&"|| x =="*" #What the heck is this doing?
+#   input.each do |x| # takes the input array, loops through each item in the list and prepares to perform a block on it
+#     found_match = false  # =>  this is unnecessary, but it simply verifies that a character has been found. it stays false until it is true
+#     cipher.each_key do |y| # each key takes only the key from the hash, and prepares to perform a block of
+#       if x == y  # x is the char from the input, and y is the char from the cipher
+#         puts "I am comparing x and y. X is #{x} and Y is #{y}." 
+#         decoded_sentence << cipher[y]             # => adds the corresponding cipher letter to the new array
+#         found_match = true             
+#         break  # usually it would be so that the rest of the code doesnt have to run but in this case it is not needed
+#       elsif x == "@" || x == "#" || x == "$" || x == "%"|| x == "^" || x == "&"|| x =="*" # => this simply looks for those symbols listed. if found, they correspond to a space.
 #         decoded_sentence << " "
 #         found_match = true
 #         break
-#       elsif (0..9).to_a.include?(x) # Try this out in IRB. What does   " (0..9).to_a "    do?
+#       elsif (0..9).to_a.include?(x) # (0..9).to_a makes an array that is inclusive of all numbers from 0 to 9.
 #         decoded_sentence << x
 #         found_match = true
 #         break
 #       end 
 #     end
-#     if not found_match  # What is this looking for?
+#     if not found_match  # this is saying that if found_match is still false then add the character to the end of the array anyway
 #       decoded_sentence << x
 #     end
 #   end
 #   decoded_sentence = decoded_sentence.join("")
 
-#   if decoded_sentence.match(/\d+/) #What is this matching? Look at Rubular for help. 
-#     decoded_sentence.gsub!(/\d+/) { |num| num.to_i / 100 } #He's been known to exaggerate...
+#   if decoded_sentence.match(/\d+/) #this is looking for any multiple digits as a regular expression.
+#     decoded_sentence.gsub!(/\d+/) { |num| num.to_i / 100 } # divides the number by 100
 #   end  
-#   return decoded_sentence # What is this returning?        
+#   return decoded_sentence # returns the decoded sentence after joining the array.      
 # end
 
 # Your Refactored Solution
@@ -97,4 +102,12 @@ p north_korean_cipher("ger^wsqifshc*nywx^kix^qi&10000*fekw@sj$gssp%vergl@hsvmxsw
 
 
 # Reflection
+# This challenge was not difficult, but I was super impressed when my partner began refactoring the code.
+# My refactored version was not nearly as clean as his, but he explained hwo everything worked and I began
+#to understand. It's eye opening how the way oen thinks affects performance in this field.
+#
+#
+#
+#
+#
  

@@ -39,13 +39,13 @@
 class Array
 	def pad(int, value=nil)
 		a = self.clone
-		while a.count < int
+		while a > self.count
 			a << value
 		end
 		a
 	end
 	def pad!(int, value=nil)
-		while self.count < int
+		while int > self.count
 			self << value
 		end
 		self
