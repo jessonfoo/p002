@@ -1,14 +1,14 @@
 # U2.W5: Virus Predictor
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 # EXPLANATION OF require_relative
-#
-#
+# => require relative basically says that this code will only run properly if the file stated
+#in the string is present, and working.
 require_relative 'state_data'
 
 class VirusPredictor
-
+# initialize takes 5 arguments, and creates instances of each.
   def initialize(state_of_origin, population_density, population, region, regional_spread)
     @state = state_of_origin
     @population = population
@@ -16,14 +16,24 @@ class VirusPredictor
     @region = region
     @next_region = regional_spread
   end
-
+#virus effects calls on two other methods, predicted deaths which takes 3 arguments and speed of spread
+# which takes two.
   def virus_effects  #HINT: What is the SCOPE of instance variables?
+                      # the scope of an instance variable, or the benefit of using an instance variable
+                      # is that it is constant throughout the class unless changed.
     predicted_deaths(@population_density, @population, @state)
     speed_of_spread(@population_density, @state)
   end
 
   private  #what is this?  what happens if it were cut and pasted above the virus_effects method
+           #private signifies that methods written below will not be accessible by other methods in other classes.
+           # if it were placed at the top of virus_effects, not much would change since nothing there are no other methods
+           # that are trying to use any of the methods within this class. However if there were, methods outside of the class
+           # would not be able to access them.
 
+
+   #Predicted deaths is a private method, it predicts the number of deaths by looking at the population density
+   # depending on the density, the size of the population that will die by multiplying it by a number and then rounding down.        
   def predicted_deaths(population_density, population, state)
     if @population_density >= 200
       number_of_deaths = (@population * 0.4).floor
@@ -40,7 +50,7 @@ class VirusPredictor
     print "#{@state} will lose #{number_of_deaths} people in this outbreak"
 
   end
-
+  #speed of spread starts with an initial variable speed of 0 and increases by 0.5 for each level of population density
   def speed_of_spread(population_density, state) #in months
     speed = 0.0
 
@@ -67,15 +77,7 @@ end
 # DRIVER CODE
  # initialize VirusPredictor for each state
 
-
-alabama = VirusPredictor.new("Alabama", STATE_DATA["Alabama"][:population_density], STATE_DATA["Alabama"][:population], STATE_DATA["Alabama"][:region], STATE_DATA["Alabama"][:regional_spread]) 
-alabama.virus_effects
-
-jersey = VirusPredictor.new("New Jersey", STATE_DATA["New Jersey"][:population_density], STATE_DATA["New Jersey"][:population], STATE_DATA["New Jersey"][:region], STATE_DATA["New Jersey"][:regional_spread]) 
-jersey.virus_effects
-
-california = VirusPredictor.new("California", STATE_DATA["California"][:population_density], STATE_DATA["California"][:population], STATE_DATA["California"][:region], STATE_DATA["California"][:regional_spread]) 
-california.virus_effects
-
-alaska = VirusPredictor.new("Alaska", STATE_DATA["Alaska"][:population_density], STATE_DATA["Alaska"][:population], STATE_DATA["Alaska"][:region], STATE_DATA["Alaska"][:regional_spread]) 
-alaska.virus_effects
+STATE_DATA.each do |key,value|
+  key = VirusPredictor.new("#{key}", value[:population_density], value[:population], value[:region], value[:regional_spread])
+  key.virus_effects
+end

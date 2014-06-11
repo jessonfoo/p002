@@ -2,6 +2,12 @@
 #this data is updated every year with estimates from a 10 year census 
 
 
+#
+#This is a hash within a hash. the keys are the states, and the values are hashes that contain
+#key values of population, density, region, regional spread etc, and their values.
+#
+
+
 STATE_DATA = {  "Alabama" => {population_density: 94.65, population: 4822023, region: 5, regional_spread: 3},
                 "Alaska" => {population_density: 1.1111, population: 731449, region: 10, regional_spread: 9},
                 "Arizona" => {population_density: 57.05, population: 6553255, region: 8, regional_spread: 8},
