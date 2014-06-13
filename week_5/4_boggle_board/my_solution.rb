@@ -60,8 +60,8 @@ end
 
 
 # DRIVER TESTS GO BELOW THIS LINE
-boggle_board.get_col(1)  #=>  ["r", "o", "c", "a"]
-p boggle_board.get_row(1) #=>  ["i", "o", "d", "t"]
+p boggle_board.get_col(1)  ==  ["r", "o", "c", "a"]
+p boggle_board.get_row(1) ==  ["i", "o", "d", "t"]
 # Reflection 
 #
 # the first part of the challenge was fairly easy. the second part of the challenge required a bit more thought. 

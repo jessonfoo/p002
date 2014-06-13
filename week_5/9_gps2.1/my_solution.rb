@@ -3,10 +3,6 @@
 # I worked on this challenge with: 
 
 
-
-
-
-
 # Our Refactored Solution
 # U2.W5: The Bakery Challenge (GPS 2.1)
 
