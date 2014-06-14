@@ -13,14 +13,19 @@ boggle_board = [["b", "r", "a", "e"],
 # Pseudocode
 # Write a method that takes a row number and returns all the elements in the row.
 # Initial Solution
+# class Array
+# 	def get_row(row)
+#     	self[row]
+# 	end
+# end
+
+#refactored Solution
 class Array
-	def get_row(row)
-    	self[row]
-	end
+    def get_row(row)
+        self[row]
+    end
 end
 
-
-# Refactored Solution
 
 
 # DRIVER TESTS GO BELOW THIS LINE
