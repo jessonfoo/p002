@@ -13,6 +13,14 @@ boggle_board = [["b", "r", "a", "e"],
 # Pseudocode
 # Write a method that takes a row number and returns all the elements in the row.
 # Initial Solution
+# class Array
+# 	def get_row(row)
+#     	self[row]
+# 	end
+# end
+
+
+# Refactored Solution
 class Array
 	def get_row(row)
     	self[row]
@@ -20,14 +28,13 @@ class Array
 end
 
 
-# Refactored Solution
-
-
 # DRIVER TESTS GO BELOW THIS LINE
 
 
 # Reflection 
-
+# the first part of the challenge was fairly easy. the second part of the challenge required a bit more thought. 
+# My biggest struggle is forgetting to use the self object, but once i remember to, things get a lot easier. all in all
+# this challenge was still much easier than the ones we've had in teh past.
 #-------------------------------------------------------------------------------
 
 # Part 2: Write a method that takes a row number and returns all the elements in the row.  
