@@ -42,7 +42,7 @@ end
 assert{CreditCard.new(4408041234567893).check_card == true}
 assert{CreditCard.new(4408041234567892).check_card == false}
 assert{CreditCard.new(4408041234567892).check_card == true}
-
+assert{CreditCard.new(4408041234547892).check_card == true}
 
 
 # 5. Reflection
