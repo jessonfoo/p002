@@ -7,27 +7,27 @@ describe 'median' do
   let(:array_4) { ["apple", "cherry", "banana"]}
 
   it "is defined as a method" do
-    defined?(median).should eq 'method'
+    expect(defined? median).to eq 'method'
   end
 
   it "requires a single argument" do
-    method(:median).arity.should eq 1
-  end
+    expect(method(:median).arity).to eq 1
+ end
 
   it "returns the correct median of an odd-length array" do
-    median(array_1).should eq 4
+    expect(median(array_1)).to eq 4
   end
 
   it "returns the correct median of an even-length array" do
-    median(array_2).should eq 5.5
+    expect(median(array_2)).to eq 5.5
   end
   
   it "returns the correct median for an unsorted array" do
-    median(array_3).should eq 4.5
+    expect(median(array_3)).to eq 4.5
   end
 
   it "returns the correct median for an array filled with strings **BONUS**" do
-    median(array_4).should eq "banana"
+    expect(median(array_4)).to eq "banana"
   end
 
 end

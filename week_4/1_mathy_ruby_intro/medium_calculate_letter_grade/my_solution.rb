@@ -18,6 +18,7 @@
 # finally, I will define a loop that will return a corresponding letter grade.
 
 # 2. Initial Solution
+<<<<<<< HEAD
 # def get_grade(list)
 # 	if list.inject(0) {|x,y| x + y}/list.length >= 90
 # 		return "A"
@@ -30,6 +31,11 @@
 # 	else return "F"
 # 	end
 # end
+=======
+
+  
+
+>>>>>>> upstream/master
 # 3. Refactored Solution
 def get_grade(list)
 	avg = list.inject(0) {|x,y| x + y}/list.length

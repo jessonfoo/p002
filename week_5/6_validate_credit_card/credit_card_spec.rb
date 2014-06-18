@@ -3,7 +3,7 @@ require_relative 'my_solution'
 describe CreditCard do
   describe '#initialize' do
     it 'Expects a single argument for the card' do
-      CreditCard.instance_method(:initialize).arity.should eq 1
+      expect(CreditCard.instance_method(:initialize).arity).to eq 1
     end
     
     it 'raises ArgumentError on card > 16' do
@@ -21,19 +21,19 @@ describe CreditCard do
   
   describe '#check_card' do
     it 'expects no arguments to be passed' do
-      CreditCard.instance_method(:check_card).arity.should be_zero
+      expect(CreditCard.instance_method(:check_card).arity).to be_zero
     end
     
     it 'returns true for a valid card' do
       card = CreditCard.new(4408041234567893)
       
-      card.check_card.should eq true
+      expect(card.check_card).to eq true
     end
     
     it 'returns false for a bad card' do
       card = CreditCard.new(4408041234567892)
       
-      card.check_card.should eq false
+      expect(card.check_card).to eq false
     end
   end
 end

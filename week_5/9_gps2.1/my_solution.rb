@@ -4,6 +4,7 @@
 
 
 # Our Refactored Solution
+<<<<<<< HEAD
 # U2.W5: The Bakery Challenge (GPS 2.1)
 
 # Your Names
@@ -45,6 +46,17 @@ end
  
 
 #-----------------------------------------------------------------------------------------------------
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> upstream/master
 #DRIVER TEST CODE-- DO NOT MODIFY ANYTHING BELOW THIS LINE (except in the section at the bottom)
 # These are the tests to ensure it's working. 
 # These should all print true if the method is working properly.

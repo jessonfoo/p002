@@ -20,18 +20,20 @@ figure out exactly how they work before you can implement them properly.
 ## Release 0:
 Refer to your accountability group spreadsheet to find your role. 
 
-Each person has a challenge to solve. This does not need to be done in any order. *(NOTE: the driver code 
-needs each method in order to be correct, however).*
+Each person has a challenge to solve. This does not need to be done in any order. **BUT the driver test code 
+needs each method in order to work.** If you don't have your group-members' solutions, copy, paste, and modify your tests, comment out the originals. Then check it all still works when you get the other code. 
 
 Using the [Ruby Docs](http://ruby-doc.org/) find one method you can use
-on both an array and a hash, and use it on the two structures to complete the goal.
+on both an array and a hash, and use it on the two structures to complete the goal. 
+
+You may use other methods as well, and if you find a method that doesn't work on both, but generally works better for the challenge, feel free to refactor your code, but keep the original solution (commented out).
 
 Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your 
 accountability group how to use them. 
 
 Each person will be working with the following `Array` and `Hash`: 
 ```ruby
-i_want_pets = ["I", "want", 3, "pets", "but", "I", "only", "have", 2, ":(." ]
+i_want_pets = ["I", "want", 3, "pets", "but", "only", "have", 2, ":(." ]
 my_family_pets_ages = {"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, 
   "Annabelle" => 0, "Ditto" => 3}
 ```
@@ -61,7 +63,7 @@ internal numbers. (Because you can never have too many pets!) For example:
 
 ```ruby
 my_array_modification_method(i_want_pets, 1) 
-#=> ["I", "want", 4, "pets", "but", "I", "only", "have", 3, ":(." ] 
+#=> ["I", "want", 4, "pets", "but", "only", "have", 3, ":(." ] 
 ```
 
 Then create a method that updates the ages in the hash. For Example:
@@ -90,7 +92,7 @@ and a letter, and deletes all the strings that contain that letter. This should 
 For example: 
 ```ruby 
 my_deletion_method(i_want_pets, "a") 
-#=> ["I", 4, "pets", "but", "I", "only", 3, ":(." ]
+#=> ["I", 4, "pets", "but", "only", 3, ":(." ]
 ```
 
 Poor George passed away. He had a good life, but I need to remove him from my list. 

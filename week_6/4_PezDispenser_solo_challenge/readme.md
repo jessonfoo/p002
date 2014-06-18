@@ -6,7 +6,7 @@
 
 ## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
-- Translate a user story into driver code and solutions
+- Translate a user story into driver test code and solutions
 - Translate driver test code into a class structure using object-oriented design
 
 ## Summary

@@ -8,7 +8,7 @@ boggle_board = [["b", "r", "a", "e"],
                 ["t", "a", "k", "e"]]
 
 
-# Part 1: Access multiple elements of a nested array
+# Part 1: Write a method that takes a row number and returns all the elements in the row.
 
 # Pseudocode
 # Write a method that takes a row number and returns all the elements in the row.
@@ -35,7 +35,7 @@ end
 
 #-------------------------------------------------------------------------------
 
-# Part 2: Write a method that takes a row number and returns all the elements in the row.  
+# Part 2: Write a method that takes a column number and returns all the elements in the column.  
 
 # Pseudocode
 # need to loop through the array and access the item in the array corresponding to the row

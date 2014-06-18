@@ -36,7 +36,6 @@
 # 	return x
 # end
 
-
 # 3. Refactored Solution
 def total(arr)
 	arr.inject(0) { |x, y| x + y }

@@ -30,4 +30,4 @@ Interact with the code by writing at least three more different method calls. Di
 ## Release 6: Push your solution to Github
 
 ## Optimize your Learning! (Optional)
-Uncomment the bonus section in the my_solution.rb file (except for the line that says bonus section) and write the code to make the driver code run as you would expect. 
+Uncomment the bonus section in the my_solution.rb file (except for the line that says bonus section) and write the code to make the driver test code run as you would expect. 

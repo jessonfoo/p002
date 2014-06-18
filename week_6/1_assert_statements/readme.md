@@ -7,7 +7,7 @@
 
 ## Summary
 
-In earlier challenges, we explored using driver code tests to clearly define the input and output of a method.  The tests were usually of the form:
+In earlier challenges, we explored using driver test code to clearly define the input and output of a method.  The tests were usually of the form:
 
 ```ruby
 puts is_fibonacci?(44) == false
@@ -49,7 +49,7 @@ card_2 = CreditCard.new(4408041234567893)
 card_2.check_card == true
 ```
 
-Copy your favorite challenge so far into the `my_solution.rb` file in this directory. Then convert either the driver code (or if you're adventurous, the RSpec) into assert statements. 
+Copy your favorite challenge so far into the `my_solution.rb` file in this directory. Then convert either the driver test code (or if you're adventurous, the RSpec) into assert statements. 
 
 Practice using assert statements often this week in your challenges!
 

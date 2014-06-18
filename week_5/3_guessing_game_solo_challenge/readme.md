@@ -58,7 +58,7 @@ puts "#{last_guess} was correct!"
 ## Release 0: Run the Tests
  
 ## Release 1: Translate the tests
-Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) and include it in the driver code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
+Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
 
 ## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 

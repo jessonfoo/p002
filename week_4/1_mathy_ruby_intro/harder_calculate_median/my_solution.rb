@@ -25,7 +25,6 @@ def median(array)
 end
 
 
-
 # 3. Refactored Solution
 def median(array)
 	n = array.sort

@@ -1,10 +1,8 @@
 # Week 6: Object-Oriented Design in Ruby
 
-These challenges are not ready yet, so please don't start them. They will be available at least by the Monday of Week 6.
-<!-- 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
 
-Don't forget your Expectations for the Unit (listed below)! 
+Don't forget your expectations for the unit (listed below)! 
 
 ## Challenges
 
@@ -20,10 +18,10 @@ Don't forget your Expectations for the Unit (listed below)!
 ## Remember your Expectations for the Unit!
 - Pair at least twice this week with a member of your accountability group.  *You need to pair **6** times this unit*
 - Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit. Don't forget or you won't get your feedback!
 
 ## Fetch the curriculum changes!
-It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) and modify them to use phase_0_unit_2 (instead of phase_0_unit_1). Use the "command line" instructions!
+It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md) and make sure to use phase_0_unit_2 (instead of phase_0_unit_1). Use the "command line" instructions!
 
 ## Completing the challenges
 
@@ -43,4 +41,3 @@ You now know enough to fix broken links in your repo! If you run into a 404 erro
 ## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md) 
 
 
- -->
