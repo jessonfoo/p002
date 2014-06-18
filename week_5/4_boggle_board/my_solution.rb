@@ -19,7 +19,12 @@ boggle_board = [["b", "r", "a", "e"],
 # 	end
 # end
 
+<<<<<<< HEAD
 #refactored Solution
+=======
+
+# Refactored Solution
+>>>>>>> FETCH_HEAD
 class Array
     def get_row(row)
         self[row]
@@ -27,12 +32,17 @@ class Array
 end
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> FETCH_HEAD
 # DRIVER TESTS GO BELOW THIS LINE
 
 
 # Reflection 
-
+# the first part of the challenge was fairly easy. the second part of the challenge required a bit more thought. 
+# My biggest struggle is forgetting to use the self object, but once i remember to, things get a lot easier. all in all
+# this challenge was still much easier than the ones we've had in teh past.
 #-------------------------------------------------------------------------------
 
 # Part 2: Write a method that takes a column number and returns all the elements in the column.  
