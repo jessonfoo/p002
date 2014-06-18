@@ -1,6 +1,6 @@
 # U2.W6: Testing Assert Statements
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge with Yohan Yi.
 
 
 # 2. Review the simple assert statement
