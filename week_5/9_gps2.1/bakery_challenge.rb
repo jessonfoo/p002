@@ -8,6 +8,7 @@
  
 def bakery_num(num_of_people, fav_food)
   my_list = {"pie" => 8, "cake" => 6, "cookie" => 1}
+  
   pie_qty = 0
   cake_qty = 0
   cookie_qty = 0
@@ -40,7 +41,7 @@ def bakery_num(num_of_people, fav_food)
     num_of_people = 0
     end
     end
-    return "You need to make #{pie_qty} pie(s), #{cake_qty} cake(s), and #{cookie_qty} cookie(s)."
+    "You need to make #{pie_qty} pie(s), #{cake_qty} cake(s), and #{cookie_qty} cookie(s)."
     end
   end
 end

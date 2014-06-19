@@ -18,6 +18,7 @@ class CreditCard
        @num = @num.join.split('').map{|x| x.to_i}.reduce(:+)
        @num %10 == 0
     end
+
 end
 
 
@@ -32,17 +33,22 @@ class CreditCard
 
 
     def double
-    	@num.each_with_index do |item, index|
+        @num.each_index do |index|
             if index % 2 == 0
-                @num[index] += @num[index]
+                @num[index] *= 2
             end
         end
     end
 
+    def split
+        @num = @num.join.split('')
+    end
+
     def check_card
-    	double
-       	@num = @num.join.split('').map{|x| x.to_i}.reduce(:+)
-       	@num %10 == 0
+        double
+        split
+        @num = @num.map{|x| x.to_i}.reduce(:+)
+        @num %10 == 0
     end
 end
 
@@ -54,7 +60,11 @@ b = CreditCard.new(4408041234567892)
 assert{b.check_card == false}
 assert{a.check_card == true}
 
-
+begin
+ CreditCard.new(1412093847102398471209374)
+rescue => e
+ assert{e.class == ArgumentError}
+end
 
 
 # Reflection 
