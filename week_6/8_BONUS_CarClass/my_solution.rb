@@ -114,10 +114,10 @@ assert(1){c.drive(10,50).class 	== String}
 assert(2){c.turn("left").class 	== String}
 assert(3){c.drive(10,50).class 	== String}
 assert(4){c.speed								== 50}
-assert(5){c.turn('right').class  == String}
+assert(5){c.turn('right').class == String}
 assert(6){c.distance     				== 20}
-assert(7){c.decelerate(15) == 35}
-assert(8){c.decelerate(40)	== "You stopped moving"}
+assert(7){c.decelerate(15) 			== 35}
+assert(8){c.decelerate(40)			== "You stopped moving"}
 
 
 
