@@ -101,7 +101,9 @@ class Car
     end
 end
 
+class Pizza
 
+end
 
 
 
