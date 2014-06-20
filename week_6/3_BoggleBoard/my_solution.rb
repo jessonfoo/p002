@@ -85,7 +85,7 @@ assert{boggle_board.create_word([1,2], [1,1], [2,1], [3,2]) == "dock"}
 assert{boggle_board.create_word([2,1], [1,1], [1,2], [0,3])  == "code" } 
 assert{boggle_board.create_word([0,1], [0,2], [1,2])  == "rad"}
 
-col = []
+col = []		
 4.times{|i| col << boggle_board.get_col(i).join}
 row = []
 4.times{|i| row << boggle_board.get_row(i).join}
