@@ -2,7 +2,7 @@ require_relative "../assert.rb"
 # U2.W6: Refactoring for Code Readability
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge Tommy Dugger.
 
 
 # Original Solution

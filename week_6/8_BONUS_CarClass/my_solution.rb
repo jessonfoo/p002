@@ -2,7 +2,7 @@ require_relative '../assert.rb'
 # U2.W6: Create a Car Class from User Stories
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge myselfb
 
 
 # I want to be able to create a new car and set it's model and color so I can customize it in the video game.
