@@ -42,26 +42,32 @@ list = ["Alex Birdsall", "Andres Saavedra", "Antonio Dangond", "Aurelio Garcia",
 	"Erick Kawala", "Evan Simoni", "Frank Shaw", "Gunnari Auvinen", "Ian Bui", 
 	"Igor Gaelzer", "Jessica Tung", "Jesson Foo", "Katia Bazzi", "Matthew Chan", 
 	"Melissa McCoy", "Michael Teevan", "Nina Church", "Ori Jonathan Pleban", 
-	"PATRICK MENZEL", "Patrick Lauer", "Patrick San Juan", "Stephens Xu", "Tommy Dugger",
-	"Vladislav Abacumov", "Whitney O'Banner", "Xang Thao", "Yen Tran", "Yohan Yi"]
+	"Patrick Menzel", "Patrick Lauer", "Patrick San Juan", "Stephens Xu", "Tommy Dugger",
+	"Vladislav Abacumov", "Whitney O'Banner", "Xang Thao","Yen Tran", "Yohan Yi"]
 	
-def grouper(list)
-		num_of_groups = list.count/4	
-		rand_groups = list.shuffle.each_slice(4).to_a.map { |e| e.join(',')  }  
-			
-			for i in 0...num_of_groups
+
+def grouper(arr)
+	for i in 1..3
+		
+		r_groups = arr.shuffle.each_slice(4).to_a.map { |e| e.join(',')  }  
+		p "Unit: " + i.to_s
+			for i in 0..arr.count/4.0
 				p "Group " + (i+1).to_s + ":" + rand_groups[i]
 			end
+
+	end
 end
-p "unit 1" 
-grouper(list)
-p "unit 2"
-grouper(list)
-p "unit 3"
-grouper(list)
 
-
-
+grouper(list)
+# def acc_groups(names)
+# 	3.times do
+# 		new_array = names.shuffle
+# 		new_array.each_slice(4) do |w,x,y,z|
+# 			p [w,x,y,z]
+# 		end
+# 	end
+#  end
+# acc_groups(list)
 
 # 1. DRIVER TESTS GO BELOW THIS LINE
 
