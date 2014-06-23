@@ -68,9 +68,9 @@ class CreditCard
     end
 
     def check_card
-       @num.each_index { |index| @num[index] += @num[index] if index % 2 == 0 }
+       @num.each_index { |index| @num[index] *= 2 if index % 2 == 0 }
        @num = @num.join.split('').map{|x| x.to_i}.reduce(:+)
-       @num %10 == 0
+       @num % 10 == 0
     end
 end
 
