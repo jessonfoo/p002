@@ -34,9 +34,13 @@
 
 #   	def guess(guess)
 #   		@guess = guess
-#   		return :high if @guess > @answer
-#   		return :low if @guess < @answer
-#   		return :correct if @guess == @answer
+#       if @guess == @answer
+#         return :correct
+#       elsif @guess > @answer
+#         return :high
+#       else
+#         return :low
+#       end
 # 	end
 
 # 	def solved?
@@ -55,15 +59,14 @@ class GuessingGame
    	end
 
   	def guess(guess)
-  		@guess = guess
+  		@guess = guess   
   		return :high if @guess > @answer
   		return :low if @guess < @answer
   		return :correct if @guess == @answer
 	end
 
 	def solved?
-		return true if @guess == @answer
-		return false if @guess != @answer
+		@guess == @answer
 	end
 end
 
