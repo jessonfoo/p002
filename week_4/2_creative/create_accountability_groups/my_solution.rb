@@ -48,26 +48,25 @@ list = ["Alex Birdsall", "Andres Saavedra", "Antonio Dangond", "Aurelio Garcia",
 
 def grouper(arr)
 	for i in 1..3
+		@arr = arr.shuffle
+		if @arr.count % 4 == 0
+			r_groups = []
+				r_groups[6] = @arr.pop(3)
+				r_groups[7] = @arr.pop(3)
+				r_groups[8] = @arr.pop(3)
 		
-		r_groups = arr.shuffle.each_slice(4).to_a.map { |e| e.join(',')  }  
-		p "Unit: " + i.to_s
-			for i in 0..arr.count/4.0
-				p "Group " + (i+1).to_s + ":" + rand_groups[i]
-			end
-
+		end
+			@arr.shuffle.each_slice(4).to_a.map { |e| e.join(',')  }  
+			p "Unit: " + i.to_s
+				for i in 0..((arr.count/4.0)-1)
+					p "Group " + (i+1).to_s + ":" + r_groups[i].to_s
+				end
 	end
+
 end
 
 grouper(list)
-# def acc_groups(names)
-# 	3.times do
-# 		new_array = names.shuffle
-# 		new_array.each_slice(4) do |w,x,y,z|
-# 			p [w,x,y,z]
-# 		end
-# 	end
-#  end
-# acc_groups(list)
+
 
 # 1. DRIVER TESTS GO BELOW THIS LINE
 
