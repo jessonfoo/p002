@@ -60,7 +60,7 @@ class GuessingGame
 
   	def guess(guess)
   		@guess = guess
-      return :correct if @guess == @answer   
+      		return :correct if @guess == @answer   
   		return :high if @guess > @answer
   		:low
 	end
